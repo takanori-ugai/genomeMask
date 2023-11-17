@@ -1,0 +1,4 @@
+5,5,0,place_wineglass1_scene6,0,0.0,7.382999999999999,ActionXXX0,wineglass352_scene6,
+5,5,0,place_wineglass1_scene6,1,7.382999999999999,10.488,grab,wineglass352_scene6,
+5,5,0,place_wineglass1_scene6,2,10.488,17.802,walk,kitchentable185_scene6,
+5,5,0,place_wineglass1_scene6,3,17.802,20.838,put,wineglass352_scene6,kitchentable185_scene6

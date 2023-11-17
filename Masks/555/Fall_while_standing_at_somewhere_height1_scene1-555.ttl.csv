@@ -1,0 +1,6 @@
+5,5,5,fall_while_standing_at_somewhere_height1_scene1,0,0.0,0.0,walk,box442_scene1,
+5,5,5,fall_while_standing_at_somewhere_height1_scene1,1,0.0,3.174,ActionXXX1,box442_scene1,
+5,5,5,fall_while_standing_at_somewhere_height1_scene1,2,3.174,10.556999999999999,ActionXXX2,coffeetable378_scene1,
+5,5,5,fall_while_standing_at_somewhere_height1_scene1,3,10.556999999999999,13.592999999999998,put,MainObjectXXX3,coffeetable378_scene1
+5,5,5,fall_while_standing_at_somewhere_height1_scene1,4,13.592999999999998,26.012999999999998,climb,coffeetable378_scene1,
+5,5,5,fall_while_standing_at_somewhere_height1_scene1,5,26.012999999999998,33.12,ActionXXX5,,

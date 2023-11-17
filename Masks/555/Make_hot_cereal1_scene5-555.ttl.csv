@@ -1,0 +1,13 @@
+5,5,5,make_hot_cereal1_scene5,0,0.0,8.072999999999999,ActionXXX0,kitchen112_scene5,
+5,5,5,make_hot_cereal1_scene5,1,8.072999999999999,14.489999999999998,walk,stove155_scene5,
+5,5,5,make_hot_cereal1_scene5,2,14.489999999999998,18.63,ActionXXX2,MainObjectXXX2,
+5,5,5,make_hot_cereal1_scene5,3,18.63,21.735,grab,cereal225_scene5,
+5,5,5,make_hot_cereal1_scene5,4,21.735,24.977999999999998,ActionXXX4,milk387_scene5,
+5,5,5,make_hot_cereal1_scene5,5,24.977999999999998,28.083,grab,MainObjectXXX5,
+5,5,5,make_hot_cereal1_scene5,6,28.083,31.878,ActionXXX6,fryingpan197_scene5,
+5,5,5,make_hot_cereal1_scene5,7,31.878,47.817,pour,cereal225_scene5,fryingpan197_scene5
+5,5,5,make_hot_cereal1_scene5,8,47.817,63.066,ActionXXX8,MainObjectXXX8,TargetObjectXXX8
+5,5,5,make_hot_cereal1_scene5,9,63.066,73.14,put,MainObjectXXX9,
+5,5,5,make_hot_cereal1_scene5,10,73.14,77.349,walk,MainObjectXXX10,
+5,5,5,make_hot_cereal1_scene5,11,77.349,83.214,ActionXXX11,stove155_scene5,
+5,5,5,make_hot_cereal1_scene5,12,83.214,86.595,switchOff,MainObjectXXX12,

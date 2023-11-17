@@ -1,0 +1,12 @@
+2,2,2,watch_television3_scene6,0,0.0,11.109,walk,bedroom70_scene6,
+2,2,2,watch_television3_scene6,1,11.109,19.389,ActionXXX1,livingroom260_scene6,
+2,2,2,watch_television3_scene6,2,19.389,24.771,walk,tv327_scene6,
+2,2,2,watch_television3_scene6,3,24.771,30.429000000000002,switchOn,MainObjectXXX3,
+2,2,2,watch_television3_scene6,4,30.429000000000002,34.155,walk,remotecontrol346_scene6,
+2,2,2,watch_television3_scene6,5,34.155,37.26,grab,remotecontrol346_scene6,
+2,2,2,watch_television3_scene6,6,37.26,41.262,walk,tv327_scene6,
+2,2,2,watch_television3_scene6,7,41.262,44.643,ActionXXX7,tv327_scene6,
+2,2,2,watch_television3_scene6,8,44.643,47.955,walk,coffeetable295_scene6,
+2,2,2,watch_television3_scene6,9,47.955,50.991,put,remotecontrol346_scene6,TargetObjectXXX9
+2,2,2,watch_television3_scene6,10,50.991,62.79,walk,bedroom70_scene6,
+2,2,2,watch_television3_scene6,11,62.79,69.414,walk,bathroom11_scene6,

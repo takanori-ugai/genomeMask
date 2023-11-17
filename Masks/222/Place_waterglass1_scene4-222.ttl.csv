@@ -1,0 +1,7 @@
+2,2,2,place_waterglass1_scene4,0,0.0,6.417,walk,MainObjectXXX0,
+2,2,2,place_waterglass1_scene4,1,6.417,9.521999999999998,grab,waterglass144_scene4,
+2,2,2,place_waterglass1_scene4,2,9.521999999999998,11.867999999999999,walk,waterglass145_scene4,
+2,2,2,place_waterglass1_scene4,3,11.867999999999999,14.972999999999999,grab,MainObjectXXX3,
+2,2,2,place_waterglass1_scene4,4,14.972999999999999,16.284,walk,MainObjectXXX4,
+2,2,2,place_waterglass1_scene4,5,16.284,19.32,put,waterglass144_scene4,kitchentable76_scene4
+2,2,2,place_waterglass1_scene4,6,19.32,22.356,ActionXXX6,waterglass145_scene4,kitchentable76_scene4

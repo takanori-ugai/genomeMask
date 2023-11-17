@@ -1,0 +1,12 @@
+5,5,5,clean_sink4_scene2,0,0.0,8.556000000000001,walk,MainObjectXXX0,
+5,5,5,clean_sink4_scene2,1,8.556000000000001,11.592,walk,MainObjectXXX1,
+5,5,5,clean_sink4_scene2,2,11.592,14.697,grab,washingsponge115_scene2,
+5,5,5,clean_sink4_scene2,3,14.697,17.526,ActionXXX3,sink149_scene2,
+5,5,5,clean_sink4_scene2,4,17.526,17.526,turnTo,MainObjectXXX4,
+5,5,5,clean_sink4_scene2,5,17.526,36.294,ActionXXX5,washingsponge115_scene2,sink149_scene2
+5,5,5,clean_sink4_scene2,6,36.294,38.294999999999995,ActionXXX6,MainObjectXXX6,
+5,5,5,clean_sink4_scene2,7,38.294999999999995,41.675999999999995,switchOn,MainObjectXXX7,
+5,5,5,clean_sink4_scene2,8,41.675999999999995,45.126,ActionXXX8,MainObjectXXX8,
+5,5,5,clean_sink4_scene2,9,45.126,48.576,ActionXXX9,sink149_scene2,
+5,5,5,clean_sink4_scene2,10,48.576,48.576,turnTo,MainObjectXXX10,
+5,5,5,clean_sink4_scene2,11,48.576,67.206,ActionXXX11,washingsponge115_scene2,TargetObjectXXX11

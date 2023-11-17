@@ -1,0 +1,16 @@
+5,5,5,put_slippers_in_closet1_scene1,0,0.0,10.142999999999999,ActionXXX0,slippers204_scene1,
+5,5,5,put_slippers_in_closet1_scene1,1,10.142999999999999,13.247999999999998,ActionXXX1,slippers204_scene1,
+5,5,5,put_slippers_in_closet1_scene1,2,13.247999999999998,22.839,ActionXXX2,MainObjectXXX2,
+5,5,5,put_slippers_in_closet1_scene1,3,22.839,27.392999999999997,walk,MainObjectXXX3,
+5,5,5,put_slippers_in_closet1_scene1,4,27.392999999999997,33.534,ActionXXX4,MainObjectXXX4,
+5,5,5,put_slippers_in_closet1_scene1,5,33.534,38.916,walk,towel55_scene1,
+5,5,5,put_slippers_in_closet1_scene1,6,38.916,42.020999999999994,grab,towel55_scene1,
+5,5,5,put_slippers_in_closet1_scene1,7,42.020999999999994,47.95499999999999,walk,sink51_scene1,
+5,5,5,put_slippers_in_closet1_scene1,8,47.95499999999999,50.99099999999999,put,MainObjectXXX8,sink51_scene1
+5,5,5,put_slippers_in_closet1_scene1,9,50.99099999999999,56.16599999999999,switchOff,faucet52_scene1,
+5,5,5,put_slippers_in_closet1_scene1,10,56.16599999999999,58.64999999999999,walk,MainObjectXXX10,
+5,5,5,put_slippers_in_closet1_scene1,11,58.64999999999999,61.75499999999999,grab,towel55_scene1,
+5,5,5,put_slippers_in_closet1_scene1,12,61.75499999999999,72.79499999999999,walk,MainObjectXXX12,
+5,5,5,put_slippers_in_closet1_scene1,13,72.79499999999999,94.18499999999999,scrub,towel55_scene1,slippers204_scene1
+5,5,5,put_slippers_in_closet1_scene1,14,94.18499999999999,100.04999999999998,walk,closet115_scene1,
+5,5,5,put_slippers_in_closet1_scene1,15,100.04999999999998,103.08599999999998,putIn,slippers204_scene1,TargetObjectXXX15

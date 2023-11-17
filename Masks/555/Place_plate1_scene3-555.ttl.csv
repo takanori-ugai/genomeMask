@@ -1,0 +1,7 @@
+5,5,5,place_plate1_scene3,0,0.0,4.691999999999999,walk,plate67_scene3,
+5,5,5,place_plate1_scene3,1,4.691999999999999,7.796999999999999,grab,plate67_scene3,
+5,5,5,place_plate1_scene3,2,7.796999999999999,16.145999999999997,ActionXXX2,plate68_scene3,
+5,5,5,place_plate1_scene3,3,16.145999999999997,19.250999999999998,grab,plate68_scene3,
+5,5,5,place_plate1_scene3,4,19.250999999999998,24.839999999999996,walk,kitchentable138_scene3,
+5,5,5,place_plate1_scene3,5,24.839999999999996,27.875999999999998,put,plate67_scene3,TargetObjectXXX5
+5,5,5,place_plate1_scene3,6,27.875999999999998,30.912,ActionXXX6,MainObjectXXX6,kitchentable138_scene3

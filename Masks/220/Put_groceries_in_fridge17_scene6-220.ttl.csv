@@ -1,0 +1,7 @@
+2,2,0,put_groceries_in_fridge17_scene6,0,0.0,4.623,walk,chips253_scene6,
+2,2,0,put_groceries_in_fridge17_scene6,1,4.623,7.728,ActionXXX1,chips253_scene6,
+2,2,0,put_groceries_in_fridge17_scene6,2,7.728,12.558,walk,fridge240_scene6,
+2,2,0,put_groceries_in_fridge17_scene6,3,12.558,15.87,open,fridge240_scene6,
+2,2,0,put_groceries_in_fridge17_scene6,4,15.87,15.87,turnTo,fridge240_scene6,
+2,2,0,put_groceries_in_fridge17_scene6,5,15.87,18.906,putIn,chips253_scene6,fridge240_scene6
+2,2,0,put_groceries_in_fridge17_scene6,6,18.906,22.217999999999996,close,fridge240_scene6,

@@ -1,0 +1,9 @@
+5,5,5,pick_up_dirty_wineglass1_scene2,0,0.0,4.2780000000000005,walk,MainObjectXXX0,
+5,5,5,pick_up_dirty_wineglass1_scene2,1,4.2780000000000005,7.383,grab,wineglass348_scene2,
+5,5,5,pick_up_dirty_wineglass1_scene2,2,7.383,9.384,walk,MainObjectXXX2,
+5,5,5,pick_up_dirty_wineglass1_scene2,3,9.384,12.489,ActionXXX3,MainObjectXXX3,
+5,5,5,pick_up_dirty_wineglass1_scene2,4,12.489,20.355,ActionXXX4,sink149_scene2,
+5,5,5,pick_up_dirty_wineglass1_scene2,5,20.355,35.949,ActionXXX5,MainObjectXXX5,TargetObjectXXX5
+5,5,5,pick_up_dirty_wineglass1_scene2,6,35.949,51.19799999999999,pour,MainObjectXXX6,TargetObjectXXX6
+5,5,5,pick_up_dirty_wineglass1_scene2,7,51.19799999999999,54.233999999999995,ActionXXX7,MainObjectXXX7,sink149_scene2
+5,5,5,pick_up_dirty_wineglass1_scene2,8,54.233999999999995,57.269999999999996,put,wineglass349_scene2,sink149_scene2

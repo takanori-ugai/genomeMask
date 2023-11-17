@@ -1,0 +1,6 @@
+5,5,0,fall_while_standing_at_somewhere_height1_scene4,0,0.0,4.2780000000000005,walk,box326_scene4,
+5,5,0,fall_while_standing_at_somewhere_height1_scene4,1,4.2780000000000005,7.383,ActionXXX1,box326_scene4,
+5,5,0,fall_while_standing_at_somewhere_height1_scene4,2,7.383,16.284,ActionXXX2,coffeetable275_scene4,
+5,5,0,fall_while_standing_at_somewhere_height1_scene4,3,16.284,19.32,put,box326_scene4,coffeetable275_scene4
+5,5,0,fall_while_standing_at_somewhere_height1_scene4,4,19.32,27.668999999999997,ActionXXX4,coffeetable275_scene4,
+5,5,0,fall_while_standing_at_somewhere_height1_scene4,5,27.668999999999997,34.845,fall,,

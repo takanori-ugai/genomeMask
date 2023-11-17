@@ -1,0 +1,8 @@
+5,5,0,fall_while_standing_and_reaching1_scene1,0,0.0,3.3119999999999994,ActionXXX0,bed112_scene1,
+5,5,0,fall_while_standing_and_reaching1_scene1,1,3.3119999999999994,9.797999999999998,ActionXXX1,bed112_scene1,
+5,5,0,fall_while_standing_and_reaching1_scene1,2,9.797999999999998,15.938999999999998,stand,,
+5,5,0,fall_while_standing_and_reaching1_scene1,3,15.938999999999998,15.938999999999998,walk,kitchen209_scene1,
+5,5,0,fall_while_standing_and_reaching1_scene1,4,15.938999999999998,27.875999999999998,walk,kitchencabinet236_scene1,
+5,5,0,fall_while_standing_and_reaching1_scene1,5,27.875999999999998,31.187999999999995,open,kitchencabinet236_scene1,
+5,5,0,fall_while_standing_and_reaching1_scene1,6,31.187999999999995,35.465999999999994,ActionXXX6,sink249_scene1,
+5,5,0,fall_while_standing_and_reaching1_scene1,7,35.465999999999994,43.26299999999999,ActionXXX7,,

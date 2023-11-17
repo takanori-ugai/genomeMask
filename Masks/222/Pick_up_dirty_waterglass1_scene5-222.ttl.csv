@@ -1,0 +1,5 @@
+2,2,2,pick_up_dirty_waterglass1_scene5,0,0.0,4.2780000000000005,ActionXXX0,waterglass198_scene5,
+2,2,2,pick_up_dirty_waterglass1_scene5,1,4.2780000000000005,7.383,ActionXXX1,MainObjectXXX1,
+2,2,2,pick_up_dirty_waterglass1_scene5,2,7.383,12.696,walk,MainObjectXXX2,
+2,2,2,pick_up_dirty_waterglass1_scene5,3,12.696,28.427999999999997,pour,waterglass198_scene5,sink152_scene5
+2,2,2,pick_up_dirty_waterglass1_scene5,4,28.427999999999997,31.464,put,waterglass198_scene5,sink152_scene5

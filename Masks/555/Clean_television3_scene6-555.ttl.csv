@@ -1,0 +1,9 @@
+5,5,5,clean_television3_scene6,0,0.0,8.487,ActionXXX0,MainObjectXXX0,
+5,5,5,clean_television3_scene6,1,8.487,17.595,walk,MainObjectXXX1,
+5,5,5,clean_television3_scene6,2,17.595,24.081,walk,MainObjectXXX2,
+5,5,5,clean_television3_scene6,3,24.081,28.497,walk,MainObjectXXX3,
+5,5,5,clean_television3_scene6,4,28.497,31.602,ActionXXX4,MainObjectXXX4,
+5,5,5,clean_television3_scene6,5,31.602,39.537,walk,bedroom70_scene6,
+5,5,5,clean_television3_scene6,6,39.537,50.784,walk,MainObjectXXX6,
+5,5,5,clean_television3_scene6,7,50.784,56.373,ActionXXX7,tv206_scene6,
+5,5,5,clean_television3_scene6,8,56.373,75.072,ActionXXX8,towel49_scene6,TargetObjectXXX8

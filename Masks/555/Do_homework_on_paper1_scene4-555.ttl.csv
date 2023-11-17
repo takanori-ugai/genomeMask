@@ -1,0 +1,12 @@
+5,5,5,do_homework_on_paper1_scene4,0,0.0,11.592,walk,bedroom216_scene4,
+5,5,5,do_homework_on_paper1_scene4,1,11.592,16.560000000000002,walk,MainObjectXXX1,
+5,5,5,do_homework_on_paper1_scene4,2,16.560000000000002,19.665000000000003,ActionXXX2,MainObjectXXX2,
+5,5,5,do_homework_on_paper1_scene4,3,19.665000000000003,24.564000000000004,ActionXXX3,MainObjectXXX3,
+5,5,5,do_homework_on_paper1_scene4,4,24.564000000000004,39.675000000000004,ActionXXX4,book226_scene4,
+5,5,5,do_homework_on_paper1_scene4,5,39.675000000000004,45.816,walk,MainObjectXXX5,
+5,5,5,do_homework_on_paper1_scene4,6,45.816,48.921,grab,notes253_scene4,
+5,5,5,do_homework_on_paper1_scene4,7,48.921,54.372,ActionXXX7,desk219_scene4,
+5,5,5,do_homework_on_paper1_scene4,8,54.372,57.408,put,book226_scene4,TargetObjectXXX8
+5,5,5,do_homework_on_paper1_scene4,9,57.408,58.719,walk,MainObjectXXX9,
+5,5,5,do_homework_on_paper1_scene4,10,58.719,69.966,ActionXXX10,chair218_scene4,
+5,5,5,do_homework_on_paper1_scene4,11,69.966,82.317,write,MainObjectXXX11,

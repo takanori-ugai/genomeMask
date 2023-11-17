@@ -1,0 +1,7 @@
+5,5,5,put_groceries_in_fridge20_scene1,0,0.0,7.313999999999999,ActionXXX0,creamybuns338_scene1,
+5,5,5,put_groceries_in_fridge20_scene1,1,7.313999999999999,10.418999999999999,grab,MainObjectXXX1,
+5,5,5,put_groceries_in_fridge20_scene1,2,10.418999999999999,19.043999999999997,walk,MainObjectXXX2,
+5,5,5,put_groceries_in_fridge20_scene1,3,19.043999999999997,22.355999999999995,ActionXXX3,MainObjectXXX3,
+5,5,5,put_groceries_in_fridge20_scene1,4,22.355999999999995,22.355999999999995,turnTo,MainObjectXXX4,
+5,5,5,put_groceries_in_fridge20_scene1,5,22.355999999999995,25.391999999999996,putIn,MainObjectXXX5,TargetObjectXXX5
+5,5,5,put_groceries_in_fridge20_scene1,6,25.391999999999996,28.703999999999994,ActionXXX6,MainObjectXXX6,

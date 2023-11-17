@@ -1,0 +1,9 @@
+10,10,10,pick_up_dirty_wineglass1_scene3,0,0.0,7.727999999999999,ActionXXX0,MainObjectXXX0,
+10,10,10,pick_up_dirty_wineglass1_scene3,1,7.727999999999999,10.832999999999998,ActionXXX1,MainObjectXXX1,
+10,10,10,pick_up_dirty_wineglass1_scene3,2,10.832999999999998,19.458,ActionXXX2,MainObjectXXX2,
+10,10,10,pick_up_dirty_wineglass1_scene3,3,19.458,22.563,ActionXXX3,MainObjectXXX3,
+10,10,10,pick_up_dirty_wineglass1_scene3,4,22.563,25.875,ActionXXX4,MainObjectXXX4,
+10,10,10,pick_up_dirty_wineglass1_scene3,5,25.875,40.641,ActionXXX5,MainObjectXXX5,TargetObjectXXX5
+10,10,10,pick_up_dirty_wineglass1_scene3,6,40.641,55.89,ActionXXX6,MainObjectXXX6,TargetObjectXXX6
+10,10,10,pick_up_dirty_wineglass1_scene3,7,55.89,58.926,ActionXXX7,MainObjectXXX7,TargetObjectXXX7
+10,10,10,pick_up_dirty_wineglass1_scene3,8,58.926,61.962,ActionXXX8,MainObjectXXX8,TargetObjectXXX8

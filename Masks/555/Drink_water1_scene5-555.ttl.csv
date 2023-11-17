@@ -1,0 +1,14 @@
+5,5,5,drink_water1_scene5,0,0.0,6.8999999999999995,walk,MainObjectXXX0,
+5,5,5,drink_water1_scene5,1,6.8999999999999995,12.075,ActionXXX1,waterglass198_scene5,
+5,5,5,drink_water1_scene5,2,12.075,15.18,ActionXXX2,MainObjectXXX2,
+5,5,5,drink_water1_scene5,3,15.18,22.563,walk,sink152_scene5,
+5,5,5,drink_water1_scene5,4,22.563,25.944,switchOn,MainObjectXXX4,
+5,5,5,drink_water1_scene5,5,25.944,25.944,walk,sink152_scene5,
+5,5,5,drink_water1_scene5,6,25.944,28.98,put,MainObjectXXX6,sink152_scene5
+5,5,5,drink_water1_scene5,7,28.98,28.98,walk,faucet153_scene5,
+5,5,5,drink_water1_scene5,8,28.98,32.361,ActionXXX8,faucet153_scene5,
+5,5,5,drink_water1_scene5,9,32.361,33.948,walk,MainObjectXXX9,
+5,5,5,drink_water1_scene5,10,33.948,37.053,ActionXXX10,waterglass198_scene5,
+5,5,5,drink_water1_scene5,11,37.053,46.437,drink,MainObjectXXX11,
+5,5,5,drink_water1_scene5,12,46.437,49.473,walk,MainObjectXXX12,
+5,5,5,drink_water1_scene5,13,49.473,52.509,put,MainObjectXXX13,TargetObjectXXX13

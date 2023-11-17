@@ -1,0 +1,5 @@
+5,5,0,eat_breadslice1_scene5,0,0.0,7.796999999999999,walk,livingroom11_scene5,
+5,5,0,eat_breadslice1_scene5,1,7.796999999999999,14.213999999999999,walk,kitchen112_scene5,
+5,5,0,eat_breadslice1_scene5,2,14.213999999999999,20.354999999999997,walk,breadslice160_scene5,
+5,5,0,eat_breadslice1_scene5,3,20.354999999999997,23.459999999999997,grab,breadslice160_scene5,
+5,5,0,eat_breadslice1_scene5,4,23.459999999999997,33.327,ActionXXX4,breadslice160_scene5,

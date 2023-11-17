@@ -1,0 +1,4 @@
+2,2,2,place_wine1_scene7,0,0.0,6.968999999999999,ActionXXX0,wine376_scene7,
+2,2,2,place_wine1_scene7,1,6.968999999999999,10.073999999999998,grab,wine376_scene7,
+2,2,2,place_wine1_scene7,2,10.073999999999998,15.317999999999998,walk,kitchentable133_scene7,
+2,2,2,place_wine1_scene7,3,15.317999999999998,21.941999999999997,ActionXXX3,MainObjectXXX3,kitchentable133_scene7

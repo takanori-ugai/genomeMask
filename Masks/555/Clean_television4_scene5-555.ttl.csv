@@ -1,0 +1,8 @@
+5,5,5,clean_television4_scene5,0,0.0,8.28,walk,tv108_scene5,
+5,5,5,clean_television4_scene5,1,8.28,17.180999999999997,ActionXXX1,bathroom295_scene5,
+5,5,5,clean_television4_scene5,2,17.180999999999997,21.389999999999997,ActionXXX2,towel361_scene5,
+5,5,5,clean_television4_scene5,3,21.389999999999997,24.494999999999997,ActionXXX3,towel361_scene5,
+5,5,5,clean_television4_scene5,4,24.494999999999997,34.086,ActionXXX4,MainObjectXXX4,
+5,5,5,clean_television4_scene5,5,34.086,38.226,walk,MainObjectXXX5,
+5,5,5,clean_television4_scene5,6,38.226,38.226,ActionXXX6,MainObjectXXX6,
+5,5,5,clean_television4_scene5,7,38.226,56.373,ActionXXX7,towel361_scene5,TargetObjectXXX7

@@ -1,0 +1,13 @@
+10,10,10,make_cold_cereal1_scene1,0,0.0,11.109,ActionXXX0,MainObjectXXX0,
+10,10,10,make_cold_cereal1_scene1,1,11.109,17.319,ActionXXX1,MainObjectXXX1,
+10,10,10,make_cold_cereal1_scene1,2,17.319,20.424,ActionXXX2,MainObjectXXX2,
+10,10,10,make_cold_cereal1_scene1,3,20.424,27.393,ActionXXX3,MainObjectXXX3,
+10,10,10,make_cold_cereal1_scene1,4,27.393,30.429000000000002,ActionXXX4,MainObjectXXX4,TargetObjectXXX4
+10,10,10,make_cold_cereal1_scene1,5,30.429000000000002,33.120000000000005,ActionXXX5,MainObjectXXX5,
+10,10,10,make_cold_cereal1_scene1,6,33.120000000000005,36.225,ActionXXX6,MainObjectXXX6,
+10,10,10,make_cold_cereal1_scene1,7,36.225,39.882,ActionXXX7,MainObjectXXX7,
+10,10,10,make_cold_cereal1_scene1,8,39.882,54.16499999999999,ActionXXX8,MainObjectXXX8,TargetObjectXXX8
+10,10,10,make_cold_cereal1_scene1,9,54.16499999999999,56.99399999999999,ActionXXX9,MainObjectXXX9,
+10,10,10,make_cold_cereal1_scene1,10,56.99399999999999,60.09899999999999,ActionXXX10,MainObjectXXX10,
+10,10,10,make_cold_cereal1_scene1,11,60.09899999999999,61.34099999999999,ActionXXX11,MainObjectXXX11,
+10,10,10,make_cold_cereal1_scene1,12,61.34099999999999,77.48699999999998,ActionXXX12,MainObjectXXX12,TargetObjectXXX12

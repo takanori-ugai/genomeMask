@@ -1,0 +1,12 @@
+2,2,0,do_homework_on_paper1_scene2,0,0.0,7.451999999999999,ActionXXX0,livingroom274_scene2,
+2,2,0,do_homework_on_paper1_scene2,1,7.451999999999999,12.626999999999999,walk,book332_scene2,
+2,2,0,do_homework_on_paper1_scene2,2,12.626999999999999,15.732,grab,book332_scene2,
+2,2,0,do_homework_on_paper1_scene2,3,15.732,15.732,walk,desk304_scene2,
+2,2,0,do_homework_on_paper1_scene2,4,15.732,29.118,read,book332_scene2,
+2,2,0,do_homework_on_paper1_scene2,5,29.118,34.775999999999996,walk,paper348_scene2,
+2,2,0,do_homework_on_paper1_scene2,6,34.775999999999996,37.88099999999999,grab,paper348_scene2,
+2,2,0,do_homework_on_paper1_scene2,7,37.88099999999999,37.88099999999999,walk,desk304_scene2,
+2,2,0,do_homework_on_paper1_scene2,8,37.88099999999999,40.916999999999994,put,book332_scene2,desk304_scene2
+2,2,0,do_homework_on_paper1_scene2,9,40.916999999999994,42.71099999999999,walk,chair303_scene2,
+2,2,0,do_homework_on_paper1_scene2,10,42.71099999999999,49.47299999999999,sit,chair303_scene2,
+2,2,0,do_homework_on_paper1_scene2,11,49.47299999999999,61.40999999999999,ActionXXX11,paper348_scene2,

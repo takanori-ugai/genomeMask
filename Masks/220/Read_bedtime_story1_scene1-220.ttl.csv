@@ -1,0 +1,8 @@
+2,2,0,read_bedtime_story1_scene1,0,0.0,7.382999999999999,walk,bedroom75_scene1,
+2,2,0,read_bedtime_story1_scene1,1,7.382999999999999,15.455999999999998,walk,lightswitch176_scene1,
+2,2,0,read_bedtime_story1_scene1,2,15.455999999999998,18.836999999999996,switchOn,lightswitch176_scene1,
+2,2,0,read_bedtime_story1_scene1,3,18.836999999999996,26.426999999999996,walk,book195_scene1,
+2,2,0,read_bedtime_story1_scene1,4,26.426999999999996,29.531999999999996,grab,book195_scene1,
+2,2,0,read_bedtime_story1_scene1,5,29.531999999999996,34.086,walk,bed112_scene1,
+2,2,0,read_bedtime_story1_scene1,6,34.086,40.503,sit,bed112_scene1,
+2,2,0,read_bedtime_story1_scene1,7,40.503,54.441,read,book195_scene1,

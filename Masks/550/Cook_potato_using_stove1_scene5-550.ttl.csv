@@ -1,0 +1,15 @@
+5,5,0,cook_potato_using_stove1_scene5,0,0.0,7.659,ActionXXX0,kitchen112_scene5,
+5,5,0,cook_potato_using_stove1_scene5,1,7.659,12.143999999999998,ActionXXX1,potato387_scene5,
+5,5,0,cook_potato_using_stove1_scene5,2,12.143999999999998,15.248999999999999,grab,potato387_scene5,
+5,5,0,cook_potato_using_stove1_scene5,3,15.248999999999999,18.561,ActionXXX3,sink152_scene5,
+5,5,0,cook_potato_using_stove1_scene5,4,18.561,21.942,switchOn,faucet153_scene5,
+5,5,0,cook_potato_using_stove1_scene5,5,21.942,36.501,ActionXXX5,potato387_scene5,
+5,5,0,cook_potato_using_stove1_scene5,6,36.501,39.882,switchOff,faucet153_scene5,
+5,5,0,cook_potato_using_stove1_scene5,7,39.882,46.092,walk,fryingpan197_scene5,
+5,5,0,cook_potato_using_stove1_scene5,8,46.092,49.128,ActionXXX8,potato387_scene5,fryingpan197_scene5
+5,5,0,cook_potato_using_stove1_scene5,9,49.128,52.647,walk,milk388_scene5,
+5,5,0,cook_potato_using_stove1_scene5,10,52.647,55.751999999999995,ActionXXX10,milk388_scene5,
+5,5,0,cook_potato_using_stove1_scene5,11,55.751999999999995,59.754,walk,fryingpan197_scene5,
+5,5,0,cook_potato_using_stove1_scene5,12,59.754,74.106,pour,milk388_scene5,fryingpan197_scene5
+5,5,0,cook_potato_using_stove1_scene5,13,74.106,77.41799999999999,switchOn,stove155_scene5,
+5,5,0,cook_potato_using_stove1_scene5,14,77.41799999999999,80.72999999999999,ActionXXX14,stove155_scene5,

@@ -1,0 +1,6 @@
+5,5,0,clean_stove1_scene3,0,0.0,5.105999999999999,walk,stove166_scene3,
+5,5,0,clean_stove1_scene3,1,5.105999999999999,9.521999999999998,walk,washingsponge123_scene3,
+5,5,0,clean_stove1_scene3,2,9.521999999999998,12.626999999999999,ActionXXX2,washingsponge123_scene3,
+5,5,0,clean_stove1_scene3,3,12.626999999999999,17.871,walk,stove166_scene3,
+5,5,0,clean_stove1_scene3,4,17.871,17.871,turnTo,stove166_scene3,
+5,5,0,clean_stove1_scene3,5,17.871,36.086999999999996,ActionXXX5,washingsponge123_scene3,stove166_scene3

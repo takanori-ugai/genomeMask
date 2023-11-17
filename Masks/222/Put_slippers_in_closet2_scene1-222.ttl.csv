@@ -1,0 +1,4 @@
+2,2,2,put_slippers_in_closet2_scene1,0,0.0,2.622,walk,slippers204_scene1,
+2,2,2,put_slippers_in_closet2_scene1,1,2.622,5.726999999999999,grab,slippers204_scene1,
+2,2,2,put_slippers_in_closet2_scene1,2,5.726999999999999,12.488999999999999,walk,closet115_scene1,
+2,2,2,put_slippers_in_closet2_scene1,3,12.488999999999999,15.524999999999999,putIn,slippers204_scene1,closet115_scene1

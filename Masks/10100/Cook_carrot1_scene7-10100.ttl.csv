@@ -1,0 +1,11 @@
+10,10,0,cook_carrot1_scene7,0,0.0,9.246,ActionXXX0,kitchen56_scene7,
+10,10,0,cook_carrot1_scene7,1,9.246,10.557,ActionXXX1,carrot376_scene7,
+10,10,0,cook_carrot1_scene7,2,10.557,13.731,ActionXXX2,carrot376_scene7,
+10,10,0,cook_carrot1_scene7,3,13.731,20.907,ActionXXX3,sink152_scene7,
+10,10,0,cook_carrot1_scene7,4,20.907,24.288,ActionXXX4,faucet153_scene7,
+10,10,0,cook_carrot1_scene7,5,24.288,39.606,ActionXXX5,carrot376_scene7,
+10,10,0,cook_carrot1_scene7,6,39.606,42.987,ActionXXX6,faucet153_scene7,
+10,10,0,cook_carrot1_scene7,7,42.987,47.196,ActionXXX7,fryingpan90_scene7,
+10,10,0,cook_carrot1_scene7,8,47.196,50.232,ActionXXX8,carrot376_scene7,fryingpan90_scene7
+10,10,0,cook_carrot1_scene7,9,50.232,53.544,ActionXXX9,stove160_scene7,
+10,10,0,cook_carrot1_scene7,10,53.544,56.855999999999995,ActionXXX10,stove160_scene7,

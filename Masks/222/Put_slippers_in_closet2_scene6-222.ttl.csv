@@ -1,0 +1,4 @@
+2,2,2,put_slippers_in_closet2_scene6,0,0.0,4.14,walk,MainObjectXXX0,
+2,2,2,put_slippers_in_closet2_scene6,1,4.14,7.244999999999999,grab,slippers121_scene6,
+2,2,2,put_slippers_in_closet2_scene6,2,7.244999999999999,15.110999999999999,ActionXXX2,closet105_scene6,
+2,2,2,put_slippers_in_closet2_scene6,3,15.110999999999999,18.147,putIn,slippers121_scene6,closet105_scene6

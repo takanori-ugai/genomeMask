@@ -1,0 +1,6 @@
+5,5,5,fold_clothespile1_scene1,0,0.0,4.2780000000000005,walk,clothespile151_scene1,
+5,5,5,fold_clothespile1_scene1,1,4.2780000000000005,7.383,grab,MainObjectXXX1,
+5,5,5,fold_clothespile1_scene1,2,7.383,16.421999999999997,walk,MainObjectXXX2,
+5,5,5,fold_clothespile1_scene1,3,16.421999999999997,29.738999999999997,shake,clothespile151_scene1,
+5,5,5,fold_clothespile1_scene1,4,29.738999999999997,38.916,ActionXXX4,,
+5,5,5,fold_clothespile1_scene1,5,38.916,41.952,ActionXXX5,clothespile151_scene1,bed112_scene1

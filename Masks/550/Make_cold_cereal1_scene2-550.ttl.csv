@@ -1,0 +1,13 @@
+5,5,0,make_cold_cereal1_scene2,0,0.0,10.419,ActionXXX0,kitchen51_scene2,
+5,5,0,make_cold_cereal1_scene2,1,10.419,15.042000000000002,walk,dishbowl93_scene2,
+5,5,0,make_cold_cereal1_scene2,2,15.042000000000002,18.147000000000002,grab,dishbowl93_scene2,
+5,5,0,make_cold_cereal1_scene2,3,18.147000000000002,26.22,ActionXXX3,kitchentable129_scene2,
+5,5,0,make_cold_cereal1_scene2,4,26.22,29.256,put,dishbowl93_scene2,kitchentable129_scene2
+5,5,0,make_cold_cereal1_scene2,5,29.256,38.364,ActionXXX5,cereal191_scene2,
+5,5,0,make_cold_cereal1_scene2,6,38.364,41.468999999999994,grab,cereal191_scene2,
+5,5,0,make_cold_cereal1_scene2,7,41.468999999999994,49.748999999999995,ActionXXX7,dishbowl93_scene2,
+5,5,0,make_cold_cereal1_scene2,8,49.748999999999995,65.41199999999999,ActionXXX8,cereal191_scene2,dishbowl93_scene2
+5,5,0,make_cold_cereal1_scene2,9,65.41199999999999,69.41399999999999,walk,milk192_scene2,
+5,5,0,make_cold_cereal1_scene2,10,69.41399999999999,72.51899999999999,ActionXXX10,milk192_scene2,
+5,5,0,make_cold_cereal1_scene2,11,72.51899999999999,77.96999999999998,ActionXXX11,dishbowl93_scene2,
+5,5,0,make_cold_cereal1_scene2,12,77.96999999999998,92.87399999999998,ActionXXX12,milk192_scene2,dishbowl93_scene2

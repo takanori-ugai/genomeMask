@@ -1,0 +1,7 @@
+2,2,0,pick_up_dirty_knife1_scene1,0,0.0,3.795,walk,cutleryknife273_scene1,
+2,2,0,pick_up_dirty_knife1_scene1,1,3.795,6.8999999999999995,grab,cutleryknife273_scene1,
+2,2,0,pick_up_dirty_knife1_scene1,2,6.8999999999999995,14.765999999999998,walk,cutleryknife277_scene1,
+2,2,0,pick_up_dirty_knife1_scene1,3,14.765999999999998,17.871,ActionXXX3,cutleryknife277_scene1,
+2,2,0,pick_up_dirty_knife1_scene1,4,17.871,23.046,walk,sink249_scene1,
+2,2,0,pick_up_dirty_knife1_scene1,5,23.046,26.082,put,cutleryknife273_scene1,sink249_scene1
+2,2,0,pick_up_dirty_knife1_scene1,6,26.082,29.118000000000002,put,cutleryknife277_scene1,sink249_scene1

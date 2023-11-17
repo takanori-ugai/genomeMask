@@ -1,0 +1,12 @@
+2,2,0,clean_sofa1_scene6,0,0.0,6.072,walk,sofa293_scene6,
+2,2,0,clean_sofa1_scene6,1,6.072,17.25,walk,bedroom70_scene6,
+2,2,0,clean_sofa1_scene6,2,17.25,23.736,walk,bathroom11_scene6,
+2,2,0,clean_sofa1_scene6,3,23.736,28.221,walk,towel49_scene6,
+2,2,0,clean_sofa1_scene6,4,28.221,31.326,grab,towel49_scene6,
+2,2,0,clean_sofa1_scene6,5,31.326,39.33,walk,bedroom70_scene6,
+2,2,0,clean_sofa1_scene6,6,39.33,48.162,walk,livingroom260_scene6,
+2,2,0,clean_sofa1_scene6,7,48.162,54.303,walk,pillow323_scene6,
+2,2,0,clean_sofa1_scene6,8,54.303,57.407999999999994,grab,pillow323_scene6,
+2,2,0,clean_sofa1_scene6,9,57.407999999999994,79.97099999999999,scrub,towel49_scene6,pillow323_scene6
+2,2,0,clean_sofa1_scene6,10,79.97099999999999,94.04699999999998,shake,pillow323_scene6,
+2,2,0,clean_sofa1_scene6,11,94.04699999999998,100.60199999999998,put,pillow323_scene6,

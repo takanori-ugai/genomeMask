@@ -1,0 +1,8 @@
+2,2,2,rinse_toothbrush1_scene3,0,0.0,7.59,walk,toothbrush352_scene3,
+2,2,2,rinse_toothbrush1_scene3,1,7.59,10.695,ActionXXX1,toothbrush352_scene3,
+2,2,2,rinse_toothbrush1_scene3,2,10.695,12.350999999999999,ActionXXX2,faucet339_scene3,
+2,2,2,rinse_toothbrush1_scene3,3,12.350999999999999,15.732,ActionXXX3,faucet339_scene3,
+2,2,2,rinse_toothbrush1_scene3,4,15.732,30.567,soak,toothbrush352_scene3,
+2,2,2,rinse_toothbrush1_scene3,5,30.567,46.989000000000004,rinse,MainObjectXXX5,
+2,2,2,rinse_toothbrush1_scene3,6,46.989000000000004,50.370000000000005,switchOff,faucet339_scene3,
+2,2,2,rinse_toothbrush1_scene3,7,50.370000000000005,57.891000000000005,put,toothbrush352_scene3,

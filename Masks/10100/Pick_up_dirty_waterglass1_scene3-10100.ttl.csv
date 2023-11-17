@@ -1,0 +1,9 @@
+10,10,0,pick_up_dirty_waterglass1_scene3,0,0.0,4.14,ActionXXX0,waterglass64_scene3,
+10,10,0,pick_up_dirty_waterglass1_scene3,1,4.14,7.244999999999999,ActionXXX1,waterglass64_scene3,
+10,10,0,pick_up_dirty_waterglass1_scene3,2,7.244999999999999,16.284,ActionXXX2,waterglass71_scene3,
+10,10,0,pick_up_dirty_waterglass1_scene3,3,16.284,19.389,ActionXXX3,waterglass71_scene3,
+10,10,0,pick_up_dirty_waterglass1_scene3,4,19.389,28.910999999999998,ActionXXX4,sink158_scene3,
+10,10,0,pick_up_dirty_waterglass1_scene3,5,28.910999999999998,44.781,ActionXXX5,waterglass64_scene3,sink158_scene3
+10,10,0,pick_up_dirty_waterglass1_scene3,6,44.781,60.03,ActionXXX6,waterglass71_scene3,sink158_scene3
+10,10,0,pick_up_dirty_waterglass1_scene3,7,60.03,63.066,ActionXXX7,waterglass64_scene3,sink158_scene3
+10,10,0,pick_up_dirty_waterglass1_scene3,8,63.066,66.102,ActionXXX8,waterglass71_scene3,sink158_scene3

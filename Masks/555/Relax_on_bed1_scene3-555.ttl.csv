@@ -1,0 +1,4 @@
+5,5,5,relax_on_bed1_scene3,0,0.0,10.142999999999999,ActionXXX0,MainObjectXXX0,
+5,5,5,relax_on_bed1_scene3,1,10.142999999999999,19.181999999999995,walk,MainObjectXXX1,
+5,5,5,relax_on_bed1_scene3,2,19.181999999999995,21.320999999999994,walk,MainObjectXXX2,
+5,5,5,relax_on_bed1_scene3,3,21.320999999999994,29.669999999999995,sit,bed407_scene3,

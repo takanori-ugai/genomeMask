@@ -1,0 +1,6 @@
+5,5,0,do_work_on_computer1_scene1,0,0.0,5.037,ActionXXX0,computer440_scene1,
+5,5,0,do_work_on_computer1_scene1,1,5.037,8.418,switchOn,computer440_scene1,
+5,5,0,do_work_on_computer1_scene1,2,8.418,17.871,ActionXXX2,chair379_scene1,
+5,5,0,do_work_on_computer1_scene1,3,17.871,36.846000000000004,type,keyboard438_scene1,
+5,5,0,do_work_on_computer1_scene1,4,36.846000000000004,42.435,stand,,
+5,5,0,do_work_on_computer1_scene1,5,42.435,42.435,walk,kitchen209_scene1,

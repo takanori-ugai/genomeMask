@@ -1,0 +1,11 @@
+10,10,0,cook_salmon1_scene2,0,0.0,10.074,ActionXXX0,kitchen51_scene2,
+10,10,0,cook_salmon1_scene2,1,10.074,14.421,ActionXXX1,salmon193_scene2,
+10,10,0,cook_salmon1_scene2,2,14.421,17.526,ActionXXX2,salmon193_scene2,
+10,10,0,cook_salmon1_scene2,3,17.526,21.39,ActionXXX3,sink149_scene2,
+10,10,0,cook_salmon1_scene2,4,21.39,27.186,ActionXXX4,faucet150_scene2,
+10,10,0,cook_salmon1_scene2,5,27.186,42.089999999999996,ActionXXX5,salmon193_scene2,
+10,10,0,cook_salmon1_scene2,6,42.089999999999996,45.54,ActionXXX6,faucet150_scene2,
+10,10,0,cook_salmon1_scene2,7,45.54,49.887,ActionXXX7,fryingpan89_scene2,
+10,10,0,cook_salmon1_scene2,8,49.887,52.923,ActionXXX8,salmon193_scene2,fryingpan89_scene2
+10,10,0,cook_salmon1_scene2,9,52.923,56.235,ActionXXX9,stove156_scene2,
+10,10,0,cook_salmon1_scene2,10,56.235,59.547,ActionXXX10,stove156_scene2,

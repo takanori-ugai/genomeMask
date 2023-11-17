@@ -1,0 +1,7 @@
+2,2,0,throw_trash3_scene1,0,0.0,4.2780000000000005,ActionXXX0,chicken340_scene1,
+2,2,0,throw_trash3_scene1,1,4.2780000000000005,7.383,grab,chicken340_scene1,
+2,2,0,throw_trash3_scene1,2,7.383,10.971,walk,salmon332_scene1,
+2,2,0,throw_trash3_scene1,3,10.971,14.076,grab,salmon332_scene1,
+2,2,0,throw_trash3_scene1,4,14.076,21.872999999999998,walk,garbagecan106_scene1,
+2,2,0,throw_trash3_scene1,5,21.872999999999998,24.909,put,chicken340_scene1,garbagecan106_scene1
+2,2,0,throw_trash3_scene1,6,24.909,27.945,put,salmon332_scene1,garbagecan106_scene1

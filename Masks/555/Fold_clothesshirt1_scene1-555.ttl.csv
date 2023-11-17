@@ -1,0 +1,6 @@
+5,5,5,fold_clothesshirt1_scene1,0,0.0,6.278999999999999,ActionXXX0,MainObjectXXX0,
+5,5,5,fold_clothesshirt1_scene1,1,6.278999999999999,13.937999999999999,grab,MainObjectXXX1,
+5,5,5,fold_clothesshirt1_scene1,2,13.937999999999999,23.321999999999996,ActionXXX2,MainObjectXXX2,
+5,5,5,fold_clothesshirt1_scene1,3,23.321999999999996,37.949999999999996,shake,clothesshirt132_scene1,
+5,5,5,fold_clothesshirt1_scene1,4,37.949999999999996,50.163,ActionXXX4,,
+5,5,5,fold_clothesshirt1_scene1,5,50.163,53.199,put,clothesshirt132_scene1,TargetObjectXXX5

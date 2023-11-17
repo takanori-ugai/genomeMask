@@ -1,0 +1,5 @@
+2,2,0,clean_kitchentable1_scene4,0,0.0,4.209,walk,kitchentable76_scene4,
+2,2,0,clean_kitchentable1_scene4,1,4.209,10.695,walk,washingsponge115_scene4,
+2,2,0,clean_kitchentable1_scene4,2,10.695,13.8,grab,washingsponge115_scene4,
+2,2,0,clean_kitchentable1_scene4,3,13.8,20.907,ActionXXX3,kitchentable76_scene4,
+2,2,0,clean_kitchentable1_scene4,4,20.907,40.158,wipe,washingsponge115_scene4,kitchentable76_scene4

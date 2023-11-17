@@ -1,0 +1,12 @@
+2,2,0,put_away_groceries_from_fridge2_scene7,0,0.0,4.553999999999999,walk,fridge168_scene7,
+2,2,0,put_away_groceries_from_fridge2_scene7,1,4.553999999999999,7.934999999999999,open,fridge168_scene7,
+2,2,0,put_away_groceries_from_fridge2_scene7,2,7.934999999999999,11.04,find,juice376_scene7,
+2,2,0,put_away_groceries_from_fridge2_scene7,3,11.04,19.32,grab,juice376_scene7,
+2,2,0,put_away_groceries_from_fridge2_scene7,4,19.32,22.77,walk,kitchentable133_scene7,
+2,2,0,put_away_groceries_from_fridge2_scene7,5,22.77,25.806,put,juice376_scene7,kitchentable133_scene7
+2,2,0,put_away_groceries_from_fridge2_scene7,6,25.806,33.534,walk,fridge168_scene7,
+2,2,0,put_away_groceries_from_fridge2_scene7,7,33.534,36.638999999999996,ActionXXX7,milk377_scene7,
+2,2,0,put_away_groceries_from_fridge2_scene7,8,36.638999999999996,39.95099999999999,grab,milk377_scene7,
+2,2,0,put_away_groceries_from_fridge2_scene7,9,39.95099999999999,48.16199999999999,close,fridge168_scene7,
+2,2,0,put_away_groceries_from_fridge2_scene7,10,48.16199999999999,51.47399999999999,walk,kitchentable133_scene7,
+2,2,0,put_away_groceries_from_fridge2_scene7,11,51.47399999999999,54.50999999999999,put,milk377_scene7,kitchentable133_scene7

@@ -1,0 +1,7 @@
+2,2,2,put_groceries_in_fridge19_scene1,0,0.0,8.348999999999998,walk,crackers337_scene1,
+2,2,2,put_groceries_in_fridge19_scene1,1,8.348999999999998,11.453999999999997,grab,MainObjectXXX1,
+2,2,2,put_groceries_in_fridge19_scene1,2,11.453999999999997,19.595999999999997,walk,fridge308_scene1,
+2,2,2,put_groceries_in_fridge19_scene1,3,19.595999999999997,22.907999999999994,open,fridge308_scene1,
+2,2,2,put_groceries_in_fridge19_scene1,4,22.907999999999994,22.907999999999994,ActionXXX4,fridge308_scene1,
+2,2,2,put_groceries_in_fridge19_scene1,5,22.907999999999994,25.943999999999996,ActionXXX5,MainObjectXXX5,fridge308_scene1
+2,2,2,put_groceries_in_fridge19_scene1,6,25.943999999999996,29.255999999999993,close,fridge308_scene1,

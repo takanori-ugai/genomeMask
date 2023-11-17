@@ -1,0 +1,11 @@
+2,2,2,cook_salmon1_scene2,0,0.0,10.074,walk,kitchen51_scene2,
+2,2,2,cook_salmon1_scene2,1,10.074,14.421,walk,salmon193_scene2,
+2,2,2,cook_salmon1_scene2,2,14.421,17.526,grab,MainObjectXXX2,
+2,2,2,cook_salmon1_scene2,3,17.526,21.39,walk,sink149_scene2,
+2,2,2,cook_salmon1_scene2,4,21.39,27.186,switchOn,faucet150_scene2,
+2,2,2,cook_salmon1_scene2,5,27.186,42.089999999999996,soak,MainObjectXXX5,
+2,2,2,cook_salmon1_scene2,6,42.089999999999996,45.54,switchOff,faucet150_scene2,
+2,2,2,cook_salmon1_scene2,7,45.54,49.887,walk,fryingpan89_scene2,
+2,2,2,cook_salmon1_scene2,8,49.887,52.923,ActionXXX8,salmon193_scene2,TargetObjectXXX8
+2,2,2,cook_salmon1_scene2,9,52.923,56.235,switchOn,stove156_scene2,
+2,2,2,cook_salmon1_scene2,10,56.235,59.547,switchOff,MainObjectXXX10,

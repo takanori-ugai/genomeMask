@@ -1,0 +1,9 @@
+2,2,2,pick_up_dirty_waterglass1_scene6,0,0.0,2.2079999999999997,walk,waterglass216_scene6,
+2,2,2,pick_up_dirty_waterglass1_scene6,1,2.2079999999999997,5.312999999999999,grab,waterglass216_scene6,
+2,2,2,pick_up_dirty_waterglass1_scene6,2,5.312999999999999,12.419999999999998,walk,waterglass220_scene6,
+2,2,2,pick_up_dirty_waterglass1_scene6,3,12.419999999999998,15.524999999999999,grab,waterglass220_scene6,
+2,2,2,pick_up_dirty_waterglass1_scene6,4,15.524999999999999,21.528,ActionXXX4,sink197_scene6,
+2,2,2,pick_up_dirty_waterglass1_scene6,5,21.528,36.224999999999994,ActionXXX5,waterglass216_scene6,TargetObjectXXX5
+2,2,2,pick_up_dirty_waterglass1_scene6,6,36.224999999999994,51.47399999999999,pour,waterglass220_scene6,sink197_scene6
+2,2,2,pick_up_dirty_waterglass1_scene6,7,51.47399999999999,54.50999999999999,ActionXXX7,waterglass216_scene6,sink197_scene6
+2,2,2,pick_up_dirty_waterglass1_scene6,8,54.50999999999999,57.54599999999999,put,waterglass220_scene6,sink197_scene6

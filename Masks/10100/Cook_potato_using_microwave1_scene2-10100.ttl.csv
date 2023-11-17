@@ -1,0 +1,13 @@
+10,10,0,cook_potato_using_microwave1_scene2,0,0.0,8.625,ActionXXX0,kitchen51_scene2,
+10,10,0,cook_potato_using_microwave1_scene2,1,8.625,17.387999999999998,ActionXXX1,potato348_scene2,
+10,10,0,cook_potato_using_microwave1_scene2,2,17.387999999999998,20.493,ActionXXX2,potato348_scene2,
+10,10,0,cook_potato_using_microwave1_scene2,3,20.493,28.497,ActionXXX3,sink149_scene2,
+10,10,0,cook_potato_using_microwave1_scene2,4,28.497,32.706,ActionXXX4,faucet150_scene2,
+10,10,0,cook_potato_using_microwave1_scene2,5,32.706,46.368,ActionXXX5,potato348_scene2,
+10,10,0,cook_potato_using_microwave1_scene2,6,46.368,49.818000000000005,ActionXXX6,faucet150_scene2,
+10,10,0,cook_potato_using_microwave1_scene2,7,49.818000000000005,56.304,ActionXXX7,microwave164_scene2,
+10,10,0,cook_potato_using_microwave1_scene2,8,56.304,59.616,ActionXXX8,microwave164_scene2,
+10,10,0,cook_potato_using_microwave1_scene2,9,59.616,62.652,ActionXXX9,potato348_scene2,microwave164_scene2
+10,10,0,cook_potato_using_microwave1_scene2,10,62.652,65.964,ActionXXX10,microwave164_scene2,
+10,10,0,cook_potato_using_microwave1_scene2,11,65.964,71.622,ActionXXX11,microwave164_scene2,
+10,10,0,cook_potato_using_microwave1_scene2,12,71.622,75.003,ActionXXX12,microwave164_scene2,

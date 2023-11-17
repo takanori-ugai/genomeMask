@@ -1,0 +1,7 @@
+2,2,0,make_bed1_scene6,0,0.0,8.625,walk,bed104_scene6,
+2,2,0,make_bed1_scene6,1,8.625,10.419,walk,pillow117_scene6,
+2,2,0,make_bed1_scene6,2,10.419,13.524000000000001,ActionXXX2,pillow117_scene6,
+2,2,0,make_bed1_scene6,3,13.524000000000001,24.219,throw,pillow117_scene6,
+2,2,0,make_bed1_scene6,4,24.219,38.157,shake,pillow117_scene6,
+2,2,0,make_bed1_scene6,5,38.157,44.574,put,pillow117_scene6,
+2,2,0,make_bed1_scene6,6,44.574,57.20099999999999,walk,kitchen161_scene6,

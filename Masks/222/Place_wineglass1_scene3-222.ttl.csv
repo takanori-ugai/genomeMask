@@ -1,0 +1,4 @@
+2,2,2,place_wineglass1_scene3,0,0.0,8.418,walk,wineglass424_scene3,
+2,2,2,place_wineglass1_scene3,1,8.418,11.523,grab,wineglass424_scene3,
+2,2,2,place_wineglass1_scene3,2,11.523,14.972999999999999,walk,kitchentable134_scene3,
+2,2,2,place_wineglass1_scene3,3,14.972999999999999,18.009,ActionXXX3,MainObjectXXX3,kitchentable134_scene3

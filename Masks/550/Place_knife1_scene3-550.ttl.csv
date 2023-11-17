@@ -1,0 +1,7 @@
+5,5,0,place_knife1_scene3,0,0.0,5.6579999999999995,ActionXXX0,cutleryknife65_scene3,
+5,5,0,place_knife1_scene3,1,5.6579999999999995,8.762999999999998,ActionXXX1,cutleryknife65_scene3,
+5,5,0,place_knife1_scene3,2,8.762999999999998,17.387999999999998,ActionXXX2,cutleryknife70_scene3,
+5,5,0,place_knife1_scene3,3,17.387999999999998,20.493,grab,cutleryknife70_scene3,
+5,5,0,place_knife1_scene3,4,20.493,25.668,walk,kitchentable138_scene3,
+5,5,0,place_knife1_scene3,5,25.668,28.704,put,cutleryknife65_scene3,kitchentable138_scene3
+5,5,0,place_knife1_scene3,6,28.704,31.740000000000002,put,cutleryknife70_scene3,kitchentable138_scene3

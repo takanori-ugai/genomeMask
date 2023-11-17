@@ -1,0 +1,5 @@
+5,5,5,turn_on_light7_scene5,0,0.0,8.142,walk,livingroom11_scene5,
+5,5,5,turn_on_light7_scene5,1,8.142,14.283,ActionXXX1,MainObjectXXX1,
+5,5,5,turn_on_light7_scene5,2,14.283,21.735,walk,bedroom231_scene5,
+5,5,5,turn_on_light7_scene5,3,21.735,26.22,ActionXXX3,lightswitch268_scene5,
+5,5,5,turn_on_light7_scene5,4,26.22,29.601,ActionXXX4,MainObjectXXX4,

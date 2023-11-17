@@ -1,0 +1,4 @@
+5,5,5,place_waterglass1_scene2,0,0.0,5.796,walk,MainObjectXXX0,
+5,5,5,place_waterglass1_scene2,1,5.796,8.901,grab,MainObjectXXX1,
+5,5,5,place_waterglass1_scene2,2,8.901,10.556999999999999,walk,kitchentable129_scene2,
+5,5,5,place_waterglass1_scene2,3,10.556999999999999,13.592999999999998,ActionXXX3,MainObjectXXX3,TargetObjectXXX3

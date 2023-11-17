@@ -1,0 +1,8 @@
+2,2,0,clean_desk4_scene3,0,0.0,6.209999999999999,walk,desk406_scene3,
+2,2,0,clean_desk4_scene3,1,6.209999999999999,11.591999999999999,walk,bathroom297_scene3,
+2,2,0,clean_desk4_scene3,2,11.591999999999999,17.25,ActionXXX2,towel340_scene3,
+2,2,0,clean_desk4_scene3,3,17.25,20.355,grab,towel340_scene3,
+2,2,0,clean_desk4_scene3,4,20.355,31.395,walk,bedroom358_scene3,
+2,2,0,clean_desk4_scene3,5,31.395,39.054,walk,desk406_scene3,
+2,2,0,clean_desk4_scene3,6,39.054,39.054,turnTo,desk406_scene3,
+2,2,0,clean_desk4_scene3,7,39.054,57.063,wipe,towel340_scene3,desk406_scene3

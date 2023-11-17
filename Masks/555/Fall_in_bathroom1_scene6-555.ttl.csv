@@ -1,0 +1,8 @@
+5,5,5,fall_in_bathroom1_scene6,0,0.0,7.382999999999999,ActionXXX0,bathroom11_scene6,
+5,5,5,fall_in_bathroom1_scene6,1,7.382999999999999,12.834,walk,door47_scene6,
+5,5,5,fall_in_bathroom1_scene6,2,12.834,16.146,close,door47_scene6,
+5,5,5,fall_in_bathroom1_scene6,3,16.146,21.528,ActionXXX3,MainObjectXXX3,
+5,5,5,fall_in_bathroom1_scene6,4,21.528,28.842,ActionXXX4,MainObjectXXX4,
+5,5,5,fall_in_bathroom1_scene6,4,28.842,36.156,ActionXXX4,MainObjectXXX4,
+5,5,5,fall_in_bathroom1_scene6,5,36.156,43.332,stand,,
+5,5,5,fall_in_bathroom1_scene6,6,43.332,50.991,ActionXXX6,,

@@ -1,0 +1,5 @@
+5,5,0,fold_clothespants1_scene5,0,0.0,6.348,ActionXXX0,clothespants276_scene5,
+5,5,0,fold_clothespants1_scene5,1,6.348,9.453,ActionXXX1,clothespants276_scene5,
+5,5,0,fold_clothespants1_scene5,2,9.453,14.145,ActionXXX2,bed293_scene5,
+5,5,0,fold_clothespants1_scene5,3,14.145,26.702999999999996,ActionXXX3,,
+5,5,0,fold_clothespants1_scene5,4,26.702999999999996,29.738999999999997,put,clothespants276_scene5,bed293_scene5

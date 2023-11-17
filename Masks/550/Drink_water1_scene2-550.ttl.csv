@@ -1,0 +1,14 @@
+5,5,0,drink_water1_scene2,0,0.0,8.28,ActionXXX0,kitchen51_scene2,
+5,5,0,drink_water1_scene2,1,8.28,15.18,walk,waterglass83_scene2,
+5,5,0,drink_water1_scene2,2,15.18,18.285,grab,waterglass83_scene2,
+5,5,0,drink_water1_scene2,3,18.285,25.668,walk,faucet150_scene2,
+5,5,0,drink_water1_scene2,4,25.668,29.049,ActionXXX4,faucet150_scene2,
+5,5,0,drink_water1_scene2,5,29.049,29.049,walk,sink149_scene2,
+5,5,0,drink_water1_scene2,6,29.049,32.085,put,waterglass83_scene2,sink149_scene2
+5,5,0,drink_water1_scene2,7,32.085,32.085,ActionXXX7,faucet150_scene2,
+5,5,0,drink_water1_scene2,8,32.085,35.466,switchOff,faucet150_scene2,
+5,5,0,drink_water1_scene2,9,35.466,38.226,walk,waterglass83_scene2,
+5,5,0,drink_water1_scene2,10,38.226,41.330999999999996,ActionXXX10,waterglass83_scene2,
+5,5,0,drink_water1_scene2,11,41.330999999999996,50.852999999999994,drink,waterglass83_scene2,
+5,5,0,drink_water1_scene2,12,50.852999999999994,55.062,ActionXXX12,kitchencounter140_scene2,
+5,5,0,drink_water1_scene2,13,55.062,58.098,ActionXXX13,waterglass83_scene2,kitchencounter140_scene2

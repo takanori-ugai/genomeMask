@@ -1,0 +1,6 @@
+2,2,2,do_work_on_computer1_scene7,0,0.0,6.623999999999999,walk,computer286_scene7,
+2,2,2,do_work_on_computer1_scene7,1,6.623999999999999,10.004999999999999,switchOn,computer286_scene7,
+2,2,2,do_work_on_computer1_scene7,2,10.004999999999999,23.046,sit,chair252_scene7,
+2,2,2,do_work_on_computer1_scene7,3,23.046,42.159,type,keyboard288_scene7,
+2,2,2,do_work_on_computer1_scene7,4,42.159,47.61,ActionXXX4,,
+2,2,2,do_work_on_computer1_scene7,5,47.61,47.61,walk,kitchen56_scene7,

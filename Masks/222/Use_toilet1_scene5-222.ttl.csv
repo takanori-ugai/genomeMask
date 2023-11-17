@@ -1,0 +1,8 @@
+2,2,2,use_toilet1_scene5,0,0.0,5.451,ActionXXX0,MainObjectXXX0,
+2,2,2,use_toilet1_scene5,1,5.451,12.143999999999998,walk,livingroom11_scene5,
+2,2,2,use_toilet1_scene5,2,12.143999999999998,19.526999999999997,walk,bathroom295_scene5,
+2,2,2,use_toilet1_scene5,3,19.526999999999997,23.115,ActionXXX3,MainObjectXXX3,
+2,2,2,use_toilet1_scene5,3,23.115,26.703,ActionXXX3,MainObjectXXX3,
+2,2,2,use_toilet1_scene5,4,26.703,33.948,ActionXXX4,toilet315_scene5,
+2,2,2,use_toilet1_scene5,4,33.948,41.193,ActionXXX4,toilet315_scene5,
+2,2,2,use_toilet1_scene5,5,41.193,47.333999999999996,stand,,

@@ -1,0 +1,12 @@
+2,2,2,put_groceries_in_fridge16_scene1,0,0.0,6.278999999999999,walk,chicken340_scene1,
+2,2,2,put_groceries_in_fridge16_scene1,1,6.278999999999999,9.383999999999999,grab,chicken340_scene1,
+2,2,2,put_groceries_in_fridge16_scene1,2,9.383999999999999,10.349999999999998,walk,sink249_scene1,
+2,2,2,put_groceries_in_fridge16_scene1,3,10.349999999999998,16.284,ActionXXX3,faucet250_scene1,
+2,2,2,put_groceries_in_fridge16_scene1,4,16.284,30.774,ActionXXX4,MainObjectXXX4,
+2,2,2,put_groceries_in_fridge16_scene1,5,30.774,47.196,rinse,chicken340_scene1,
+2,2,2,put_groceries_in_fridge16_scene1,6,47.196,50.577,ActionXXX6,MainObjectXXX6,
+2,2,2,put_groceries_in_fridge16_scene1,7,50.577,56.028,walk,fridge308_scene1,
+2,2,2,put_groceries_in_fridge16_scene1,8,56.028,59.339999999999996,open,fridge308_scene1,
+2,2,2,put_groceries_in_fridge16_scene1,9,59.339999999999996,59.339999999999996,ActionXXX9,fridge308_scene1,
+2,2,2,put_groceries_in_fridge16_scene1,10,59.339999999999996,62.376,putIn,chicken340_scene1,fridge308_scene1
+2,2,2,put_groceries_in_fridge16_scene1,11,62.376,65.688,close,fridge308_scene1,

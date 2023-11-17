@@ -1,0 +1,12 @@
+5,5,5,cook_salmon1_scene1,0,0.0,12.626999999999999,walk,kitchen209_scene1,
+5,5,5,cook_salmon1_scene1,1,12.626999999999999,16.352999999999998,walk,MainObjectXXX1,
+5,5,5,cook_salmon1_scene1,2,16.352999999999998,19.458,ActionXXX2,salmon332_scene1,
+5,5,5,cook_salmon1_scene1,3,19.458,22.700999999999997,walk,MainObjectXXX3,
+5,5,5,cook_salmon1_scene1,4,22.700999999999997,28.772999999999996,switchOn,MainObjectXXX4,
+5,5,5,cook_salmon1_scene1,5,28.772999999999996,43.193999999999996,soak,MainObjectXXX5,
+5,5,5,cook_salmon1_scene1,6,43.193999999999996,46.574999999999996,switchOff,faucet250_scene1,
+5,5,5,cook_salmon1_scene1,7,46.574999999999996,51.266999999999996,walk,fryingpan270_scene1,
+5,5,5,cook_salmon1_scene1,8,51.266999999999996,54.303,ActionXXX8,MainObjectXXX8,TargetObjectXXX8
+5,5,5,cook_salmon1_scene1,9,54.303,55.683,turnTo,MainObjectXXX9,
+5,5,5,cook_salmon1_scene1,10,55.683,58.995,ActionXXX10,MainObjectXXX10,
+5,5,5,cook_salmon1_scene1,11,58.995,62.306999999999995,switchOff,stove314_scene1,

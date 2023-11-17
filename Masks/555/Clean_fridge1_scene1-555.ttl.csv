@@ -1,0 +1,8 @@
+5,5,5,clean_fridge1_scene1,0,0.0,4.209,ActionXXX0,fridge308_scene1,
+5,5,5,clean_fridge1_scene1,1,4.209,8.349,ActionXXX1,washingsponge268_scene1,
+5,5,5,clean_fridge1_scene1,2,8.349,11.454,ActionXXX2,MainObjectXXX2,
+5,5,5,clean_fridge1_scene1,3,11.454,16.767,ActionXXX3,fridge308_scene1,
+5,5,5,clean_fridge1_scene1,4,16.767,20.079,open,fridge308_scene1,
+5,5,5,clean_fridge1_scene1,5,20.079,38.295,ActionXXX5,washingsponge268_scene1,fridge308_scene1
+5,5,5,clean_fridge1_scene1,6,38.295,41.607,ActionXXX6,fridge308_scene1,
+5,5,5,clean_fridge1_scene1,7,41.607,61.203,wipe,MainObjectXXX7,TargetObjectXXX7

@@ -1,0 +1,10 @@
+5,5,0,read_textbook1_scene4,0,0.0,4.002,walk,book226_scene4,
+5,5,0,read_textbook1_scene4,1,4.002,7.106999999999999,grab,book226_scene4,
+5,5,0,read_textbook1_scene4,2,7.106999999999999,10.142999999999999,walk,desk219_scene4,
+5,5,0,read_textbook1_scene4,3,10.142999999999999,25.461,ActionXXX3,book226_scene4,
+5,5,0,read_textbook1_scene4,4,25.461,25.461,ActionXXX4,desk219_scene4,
+5,5,0,read_textbook1_scene4,5,25.461,28.497,put,book226_scene4,desk219_scene4
+5,5,0,read_textbook1_scene4,6,28.497,40.917,ActionXXX6,kitchen11_scene4,
+5,5,0,read_textbook1_scene4,7,40.917,48.231,walk,bathroom177_scene4,
+5,5,0,read_textbook1_scene4,8,48.231,50.922000000000004,walk,toilet193_scene4,
+5,5,0,read_textbook1_scene4,9,50.922000000000004,58.857000000000006,ActionXXX9,toilet193_scene4,

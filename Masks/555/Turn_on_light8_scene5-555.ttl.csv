@@ -1,0 +1,7 @@
+5,5,5,turn_on_light8_scene5,0,0.0,8.901,walk,MainObjectXXX0,
+5,5,5,turn_on_light8_scene5,1,8.901,15.524999999999999,ActionXXX1,MainObjectXXX1,
+5,5,5,turn_on_light8_scene5,2,15.524999999999999,22.976999999999997,walk,bathroom295_scene5,
+5,5,5,turn_on_light8_scene5,3,22.976999999999997,28.565999999999995,ActionXXX3,door309_scene5,
+5,5,5,turn_on_light8_scene5,4,28.565999999999995,31.877999999999993,close,door309_scene5,
+5,5,5,turn_on_light8_scene5,5,31.877999999999993,35.39699999999999,walk,MainObjectXXX5,
+5,5,5,turn_on_light8_scene5,6,35.39699999999999,41.74499999999999,switchOn,MainObjectXXX6,

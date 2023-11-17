@@ -1,0 +1,6 @@
+5,5,5,fall_while_walking_forward1_scene2,0,0.0,13.040999999999999,ActionXXX0,MainObjectXXX0,
+5,5,5,fall_while_walking_forward1_scene2,1,13.040999999999999,17.319,walk,MainObjectXXX1,
+5,5,5,fall_while_walking_forward1_scene2,2,17.319,20.631,open,MainObjectXXX2,
+5,5,5,fall_while_walking_forward1_scene2,3,20.631,23.942999999999998,ActionXXX3,fridge155_scene2,
+5,5,5,fall_while_walking_forward1_scene2,4,23.942999999999998,38.778,ActionXXX4,livingroom274_scene2,
+5,5,5,fall_while_walking_forward1_scene2,5,38.778,47.403,ActionXXX5,,

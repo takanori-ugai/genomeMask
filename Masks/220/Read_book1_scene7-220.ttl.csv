@@ -1,0 +1,6 @@
+2,2,0,read_book1_scene7,0,0.0,9.936,ActionXXX0,livingroom205_scene7,
+2,2,0,read_book1_scene7,1,9.936,13.661999999999999,walk,book272_scene7,
+2,2,0,read_book1_scene7,2,13.661999999999999,16.767,grab,book272_scene7,
+2,2,0,read_book1_scene7,3,16.767,19.32,walk,sofa254_scene7,
+2,2,0,read_book1_scene7,4,19.32,26.91,ActionXXX4,sofa254_scene7,
+2,2,0,read_book1_scene7,5,26.91,41.538,read,book272_scene7,

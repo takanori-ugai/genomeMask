@@ -1,0 +1,5 @@
+2,2,0,fall_while_standing_quietly1_scene2,0,0.0,7.796999999999999,walk,bookshelf307_scene2,
+2,2,0,fall_while_standing_quietly1_scene2,1,7.796999999999999,10.901999999999997,grab,book348_scene2,
+2,2,0,fall_while_standing_quietly1_scene2,2,10.901999999999997,14.006999999999998,grab,book349_scene2,
+2,2,0,fall_while_standing_quietly1_scene2,3,14.006999999999998,17.802,turnTo,chair303_scene2,
+2,2,0,fall_while_standing_quietly1_scene2,4,17.802,26.496,ActionXXX4,,

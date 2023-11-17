@@ -1,0 +1,13 @@
+5,5,5,cook_potato_using_microwave1_scene5,0,0.0,5.175,ActionXXX0,MainObjectXXX0,
+5,5,5,cook_potato_using_microwave1_scene5,1,5.175,9.936,walk,potato387_scene5,
+5,5,5,cook_potato_using_microwave1_scene5,2,9.936,13.041,ActionXXX2,MainObjectXXX2,
+5,5,5,cook_potato_using_microwave1_scene5,3,13.041,16.491,walk,MainObjectXXX3,
+5,5,5,cook_potato_using_microwave1_scene5,4,16.491,19.872,ActionXXX4,MainObjectXXX4,
+5,5,5,cook_potato_using_microwave1_scene5,5,19.872,34.086,ActionXXX5,potato387_scene5,
+5,5,5,cook_potato_using_microwave1_scene5,6,34.086,37.467,switchOff,MainObjectXXX6,
+5,5,5,cook_potato_using_microwave1_scene5,7,37.467,41.262,walk,microwave163_scene5,
+5,5,5,cook_potato_using_microwave1_scene5,8,41.262,44.574,ActionXXX8,MainObjectXXX8,
+5,5,5,cook_potato_using_microwave1_scene5,9,44.574,47.61,ActionXXX9,MainObjectXXX9,microwave163_scene5
+5,5,5,cook_potato_using_microwave1_scene5,10,47.61,50.922,close,MainObjectXXX10,
+5,5,5,cook_potato_using_microwave1_scene5,11,50.922,57.339,switchOn,microwave163_scene5,
+5,5,5,cook_potato_using_microwave1_scene5,12,57.339,60.72,ActionXXX12,microwave163_scene5,

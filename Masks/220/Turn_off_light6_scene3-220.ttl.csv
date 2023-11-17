@@ -1,0 +1,4 @@
+2,2,0,turn_off_light6_scene3,0,0.0,5.244,walk,lightswitch250_scene3,
+2,2,0,turn_off_light6_scene3,1,5.244,10.902,switchOff,lightswitch250_scene3,
+2,2,0,turn_off_light6_scene3,2,10.902,18.906,ActionXXX2,kitchen11_scene3,
+2,2,0,turn_off_light6_scene3,3,18.906,27.738,walk,bedroom358_scene3,

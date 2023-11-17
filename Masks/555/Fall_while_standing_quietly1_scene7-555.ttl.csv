@@ -1,0 +1,5 @@
+5,5,5,fall_while_standing_quietly1_scene7,0,0.0,9.177,ActionXXX0,bookshelf253_scene7,
+5,5,5,fall_while_standing_quietly1_scene7,1,9.177,12.282,ActionXXX1,book273_scene7,
+5,5,5,fall_while_standing_quietly1_scene7,2,12.282,15.387,grab,MainObjectXXX2,
+5,5,5,fall_while_standing_quietly1_scene7,3,15.387,20.631,turnTo,chair252_scene7,
+5,5,5,fall_while_standing_quietly1_scene7,4,20.631,28.083,fall,,

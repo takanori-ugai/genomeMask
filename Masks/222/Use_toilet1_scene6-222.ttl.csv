@@ -1,0 +1,6 @@
+2,2,2,use_toilet1_scene6,0,0.0,6.968999999999999,ActionXXX0,bathroom11_scene6,
+2,2,2,use_toilet1_scene6,1,6.968999999999999,11.937,walk,MainObjectXXX1,
+2,2,2,use_toilet1_scene6,1,11.937,16.905,walk,MainObjectXXX1,
+2,2,2,use_toilet1_scene6,2,16.905,23.943,sit,toilet46_scene6,
+2,2,2,use_toilet1_scene6,2,23.943,30.981,sit,toilet46_scene6,
+2,2,2,use_toilet1_scene6,3,30.981,37.122,stand,,

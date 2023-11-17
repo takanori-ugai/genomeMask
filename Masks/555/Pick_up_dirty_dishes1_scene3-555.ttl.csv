@@ -1,0 +1,7 @@
+5,5,5,pick_up_dirty_dishes1_scene3,0,0.0,8.211,ActionXXX0,MainObjectXXX0,
+5,5,5,pick_up_dirty_dishes1_scene3,1,8.211,11.315999999999999,grab,plate67_scene3,
+5,5,5,pick_up_dirty_dishes1_scene3,2,11.315999999999999,19.32,walk,MainObjectXXX2,
+5,5,5,pick_up_dirty_dishes1_scene3,3,19.32,22.425,ActionXXX3,MainObjectXXX3,
+5,5,5,pick_up_dirty_dishes1_scene3,4,22.425,31.671,walk,sink158_scene3,
+5,5,5,pick_up_dirty_dishes1_scene3,5,31.671,34.707,ActionXXX5,plate67_scene3,TargetObjectXXX5
+5,5,5,pick_up_dirty_dishes1_scene3,6,34.707,37.743,put,MainObjectXXX6,sink158_scene3

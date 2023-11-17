@@ -1,0 +1,7 @@
+2,2,2,throw_trash3_scene7,0,0.0,3.4499999999999997,walk,MainObjectXXX0,
+2,2,2,throw_trash3_scene7,1,3.4499999999999997,6.555,grab,MainObjectXXX1,
+2,2,2,throw_trash3_scene7,2,6.555,9.729,walk,salmon178_scene7,
+2,2,2,throw_trash3_scene7,3,9.729,12.834,ActionXXX3,salmon178_scene7,
+2,2,2,throw_trash3_scene7,4,12.834,16.008,walk,garbagecan112_scene7,
+2,2,2,throw_trash3_scene7,5,16.008,19.044,put,chicken179_scene7,garbagecan112_scene7
+2,2,2,throw_trash3_scene7,6,19.044,22.080000000000002,put,salmon178_scene7,garbagecan112_scene7

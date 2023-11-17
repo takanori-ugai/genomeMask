@@ -1,0 +1,11 @@
+2,2,0,fall_while_standing_and_turning1_scene6,0,0.0,10.902,walk,bedroom70_scene6,
+2,2,0,fall_while_standing_and_turning1_scene6,1,10.902,19.182,walk,livingroom260_scene6,
+2,2,0,fall_while_standing_and_turning1_scene6,2,19.182,24.701999999999998,walk,tv327_scene6,
+2,2,0,fall_while_standing_and_turning1_scene6,3,24.701999999999998,30.290999999999997,switchOn,tv327_scene6,
+2,2,0,fall_while_standing_and_turning1_scene6,4,30.290999999999997,31.808999999999997,walk,coffeetable295_scene6,
+2,2,0,fall_while_standing_and_turning1_scene6,5,31.808999999999997,35.535,walk,remotecontrol346_scene6,
+2,2,0,fall_while_standing_and_turning1_scene6,6,35.535,38.63999999999999,grab,remotecontrol346_scene6,
+2,2,0,fall_while_standing_and_turning1_scene6,7,38.63999999999999,43.81499999999999,walk,coffeetable295_scene6,
+2,2,0,fall_while_standing_and_turning1_scene6,8,43.81499999999999,46.85099999999999,put,remotecontrol346_scene6,coffeetable295_scene6
+2,2,0,fall_while_standing_and_turning1_scene6,9,46.85099999999999,49.61099999999999,turnTo,sofa293_scene6,
+2,2,0,fall_while_standing_and_turning1_scene6,10,49.61099999999999,54.78599999999999,fall,,

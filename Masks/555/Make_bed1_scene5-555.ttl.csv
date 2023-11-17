@@ -1,0 +1,7 @@
+5,5,5,make_bed1_scene5,0,0.0,3.933,ActionXXX0,bed293_scene5,
+5,5,5,make_bed1_scene5,1,3.933,6.624,walk,pillow257_scene5,
+5,5,5,make_bed1_scene5,2,6.624,9.729,grab,MainObjectXXX2,
+5,5,5,make_bed1_scene5,3,9.729,19.595999999999997,throw,MainObjectXXX3,
+5,5,5,make_bed1_scene5,4,19.595999999999997,33.602999999999994,shake,pillow257_scene5,
+5,5,5,make_bed1_scene5,5,33.602999999999994,39.88199999999999,ActionXXX5,pillow257_scene5,
+5,5,5,make_bed1_scene5,6,39.88199999999999,47.19599999999999,walk,MainObjectXXX6,

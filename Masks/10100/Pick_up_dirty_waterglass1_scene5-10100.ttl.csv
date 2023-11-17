@@ -1,0 +1,5 @@
+10,10,0,pick_up_dirty_waterglass1_scene5,0,0.0,4.2780000000000005,ActionXXX0,waterglass198_scene5,
+10,10,0,pick_up_dirty_waterglass1_scene5,1,4.2780000000000005,7.383,ActionXXX1,waterglass198_scene5,
+10,10,0,pick_up_dirty_waterglass1_scene5,2,7.383,12.696,ActionXXX2,sink152_scene5,
+10,10,0,pick_up_dirty_waterglass1_scene5,3,12.696,28.427999999999997,ActionXXX3,waterglass198_scene5,sink152_scene5
+10,10,0,pick_up_dirty_waterglass1_scene5,4,28.427999999999997,31.464,ActionXXX4,waterglass198_scene5,sink152_scene5

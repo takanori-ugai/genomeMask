@@ -1,0 +1,4 @@
+2,2,2,eat_breadslice1_scene4,0,0.0,8.28,walk,kitchen11_scene4,
+2,2,2,eat_breadslice1_scene4,1,8.28,12.902999999999999,walk,breadslice104_scene4,
+2,2,2,eat_breadslice1_scene4,2,12.902999999999999,16.008,grab,breadslice104_scene4,
+2,2,2,eat_breadslice1_scene4,3,16.008,26.357999999999997,eat,breadslice104_scene4,

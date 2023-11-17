@@ -1,0 +1,5 @@
+5,5,5,go_to_sleep1_scene3,0,0.0,9.315,ActionXXX0,bedroom358_scene3,
+5,5,5,go_to_sleep1_scene3,1,9.315,15.387,ActionXXX1,lightswitch415_scene3,
+5,5,5,go_to_sleep1_scene3,2,15.387,19.872,switchOff,MainObjectXXX2,
+5,5,5,go_to_sleep1_scene3,3,19.872,25.53,walk,bed407_scene3,
+5,5,5,go_to_sleep1_scene3,4,25.53,36.087,ActionXXX4,MainObjectXXX4,

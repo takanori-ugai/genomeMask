@@ -1,0 +1,6 @@
+5,5,0,clean_stove1_scene7,0,0.0,8.556000000000001,ActionXXX0,stove160_scene7,
+5,5,0,clean_stove1_scene7,1,8.556000000000001,15.456,walk,washingsponge114_scene7,
+5,5,0,clean_stove1_scene7,2,15.456,18.561,grab,washingsponge114_scene7,
+5,5,0,clean_stove1_scene7,3,18.561,24.633,walk,stove160_scene7,
+5,5,0,clean_stove1_scene7,4,24.633,24.633,turnTo,stove160_scene7,
+5,5,0,clean_stove1_scene7,5,24.633,44.16,wipe,washingsponge114_scene7,stove160_scene7

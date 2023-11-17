@@ -1,0 +1,7 @@
+10,10,10,pick_up_dirty_dishes1_scene2,0,0.0,8.211,ActionXXX0,MainObjectXXX0,
+10,10,10,pick_up_dirty_dishes1_scene2,1,8.211,11.315999999999999,ActionXXX1,MainObjectXXX1,
+10,10,10,pick_up_dirty_dishes1_scene2,2,11.315999999999999,11.315999999999999,ActionXXX2,MainObjectXXX2,
+10,10,10,pick_up_dirty_dishes1_scene2,3,11.315999999999999,14.421,ActionXXX3,MainObjectXXX3,
+10,10,10,pick_up_dirty_dishes1_scene2,4,14.421,17.180999999999997,ActionXXX4,MainObjectXXX4,
+10,10,10,pick_up_dirty_dishes1_scene2,5,17.180999999999997,20.217,ActionXXX5,MainObjectXXX5,TargetObjectXXX5
+10,10,10,pick_up_dirty_dishes1_scene2,6,20.217,23.253,ActionXXX6,MainObjectXXX6,TargetObjectXXX6

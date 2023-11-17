@@ -1,0 +1,5 @@
+2,2,2,fall_sideways_while_walking_forward1_scene4,0,0.0,7.59,ActionXXX0,box326_scene4,
+2,2,2,fall_sideways_while_walking_forward1_scene4,1,7.59,10.695,ActionXXX1,box326_scene4,
+2,2,2,fall_sideways_while_walking_forward1_scene4,2,10.695,19.802999999999997,walk,sofa282_scene4,
+2,2,2,fall_sideways_while_walking_forward1_scene4,3,19.802999999999997,26.150999999999996,sit,MainObjectXXX3,
+2,2,2,fall_sideways_while_walking_forward1_scene4,4,26.150999999999996,41.60699999999999,fallsit,sofa282_scene4,

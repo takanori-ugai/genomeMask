@@ -1,0 +1,7 @@
+2,2,2,place_fork1_scene3,0,0.0,6.348,walk,cutleryfork66_scene3,
+2,2,2,place_fork1_scene3,1,6.348,9.453,grab,cutleryfork66_scene3,
+2,2,2,place_fork1_scene3,2,9.453,16.56,walk,cutleryfork69_scene3,
+2,2,2,place_fork1_scene3,3,16.56,19.665,grab,cutleryfork69_scene3,
+2,2,2,place_fork1_scene3,4,19.665,23.46,walk,MainObjectXXX4,
+2,2,2,place_fork1_scene3,5,23.46,26.496000000000002,put,cutleryfork66_scene3,TargetObjectXXX5
+2,2,2,place_fork1_scene3,6,26.496000000000002,29.532000000000004,ActionXXX6,MainObjectXXX6,kitchentable138_scene3

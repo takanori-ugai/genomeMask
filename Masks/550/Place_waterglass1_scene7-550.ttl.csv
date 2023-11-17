@@ -1,0 +1,4 @@
+5,5,0,place_waterglass1_scene7,0,0.0,8.142,ActionXXX0,waterglass122_scene7,
+5,5,0,place_waterglass1_scene7,1,8.142,11.247,grab,waterglass122_scene7,
+5,5,0,place_waterglass1_scene7,2,11.247,16.628999999999998,walk,kitchentable133_scene7,
+5,5,0,place_waterglass1_scene7,3,16.628999999999998,23.252999999999997,put,waterglass122_scene7,kitchentable133_scene7

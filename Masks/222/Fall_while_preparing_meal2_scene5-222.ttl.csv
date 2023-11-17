@@ -1,0 +1,8 @@
+2,2,2,fall_while_preparing_meal2_scene5,0,0.0,8.072999999999999,walk,MainObjectXXX0,
+2,2,2,fall_while_preparing_meal2_scene5,1,8.072999999999999,11.177999999999997,grab,milk387_scene5,
+2,2,2,fall_while_preparing_meal2_scene5,2,11.177999999999997,14.972999999999997,walk,MainObjectXXX2,
+2,2,2,fall_while_preparing_meal2_scene5,3,14.972999999999997,18.077999999999996,ActionXXX3,cupcake214_scene5,
+2,2,2,fall_while_preparing_meal2_scene5,4,18.077999999999996,28.220999999999997,walk,MainObjectXXX4,
+2,2,2,fall_while_preparing_meal2_scene5,5,28.220999999999997,34.293,walk,tvstand28_scene5,
+2,2,2,fall_while_preparing_meal2_scene5,6,34.293,36.638999999999996,turnTo,chair26_scene5,
+2,2,2,fall_while_preparing_meal2_scene5,7,36.638999999999996,41.81399999999999,fall,,

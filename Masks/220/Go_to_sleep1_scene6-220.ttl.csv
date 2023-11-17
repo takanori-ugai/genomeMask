@@ -1,0 +1,5 @@
+2,2,0,go_to_sleep1_scene6,0,0.0,7.313999999999999,walk,bedroom70_scene6,
+2,2,0,go_to_sleep1_scene6,1,7.313999999999999,13.247999999999998,walk,lightswitch109_scene6,
+2,2,0,go_to_sleep1_scene6,2,13.247999999999998,20.009999999999998,switchOff,lightswitch109_scene6,
+2,2,0,go_to_sleep1_scene6,3,20.009999999999998,27.806999999999995,walk,bed104_scene6,
+2,2,0,go_to_sleep1_scene6,4,27.806999999999995,37.12199999999999,sit,bed104_scene6,

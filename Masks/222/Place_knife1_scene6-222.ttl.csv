@@ -1,0 +1,7 @@
+2,2,2,place_knife1_scene6,0,0.0,4.14,ActionXXX0,cutleryknife217_scene6,
+2,2,2,place_knife1_scene6,1,4.14,7.244999999999999,grab,cutleryknife217_scene6,
+2,2,2,place_knife1_scene6,2,7.244999999999999,12.834,walk,cutleryknife221_scene6,
+2,2,2,place_knife1_scene6,3,12.834,15.939,ActionXXX3,cutleryknife221_scene6,
+2,2,2,place_knife1_scene6,4,15.939,19.044,walk,kitchentable185_scene6,
+2,2,2,place_knife1_scene6,5,19.044,22.080000000000002,put,cutleryknife217_scene6,TargetObjectXXX5
+2,2,2,place_knife1_scene6,6,22.080000000000002,25.116000000000003,put,cutleryknife221_scene6,kitchentable185_scene6

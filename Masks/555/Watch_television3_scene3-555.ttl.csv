@@ -1,0 +1,12 @@
+5,5,5,watch_television3_scene3,0,0.0,11.384999999999998,walk,MainObjectXXX0,
+5,5,5,watch_television3_scene3,1,11.384999999999998,16.766999999999996,walk,MainObjectXXX1,
+5,5,5,watch_television3_scene3,2,16.766999999999996,23.528999999999996,ActionXXX2,tv249_scene3,
+5,5,5,watch_television3_scene3,3,23.528999999999996,31.808999999999997,ActionXXX3,MainObjectXXX3,
+5,5,5,watch_television3_scene3,4,31.808999999999997,34.913999999999994,grab,MainObjectXXX4,
+5,5,5,watch_television3_scene3,5,34.913999999999994,42.91799999999999,walk,MainObjectXXX5,
+5,5,5,watch_television3_scene3,6,42.91799999999999,46.29899999999999,ActionXXX6,MainObjectXXX6,
+5,5,5,watch_television3_scene3,7,46.29899999999999,49.196999999999996,walk,tvstand218_scene3,
+5,5,5,watch_television3_scene3,8,49.196999999999996,52.233,put,MainObjectXXX8,tvstand218_scene3
+5,5,5,watch_television3_scene3,9,52.233,62.306999999999995,ActionXXX9,kitchen11_scene3,
+5,5,5,watch_television3_scene3,10,62.306999999999995,71.27699999999999,walk,bedroom358_scene3,
+5,5,5,watch_television3_scene3,11,71.27699999999999,79.55699999999999,ActionXXX11,MainObjectXXX11,

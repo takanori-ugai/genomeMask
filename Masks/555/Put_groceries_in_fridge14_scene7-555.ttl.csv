@@ -1,0 +1,12 @@
+5,5,5,put_groceries_in_fridge14_scene7,0,0.0,5.933999999999999,ActionXXX0,carrot376_scene7,
+5,5,5,put_groceries_in_fridge14_scene7,1,5.933999999999999,9.038999999999998,grab,carrot376_scene7,
+5,5,5,put_groceries_in_fridge14_scene7,2,9.038999999999998,18.906,ActionXXX2,MainObjectXXX2,
+5,5,5,put_groceries_in_fridge14_scene7,3,18.906,24.770999999999997,switchOn,faucet153_scene7,
+5,5,5,put_groceries_in_fridge14_scene7,4,24.770999999999997,40.364999999999995,soak,carrot376_scene7,
+5,5,5,put_groceries_in_fridge14_scene7,5,40.364999999999995,56.78699999999999,rinse,carrot376_scene7,
+5,5,5,put_groceries_in_fridge14_scene7,6,56.78699999999999,60.236999999999995,ActionXXX6,MainObjectXXX6,
+5,5,5,put_groceries_in_fridge14_scene7,7,60.236999999999995,66.654,ActionXXX7,fridge168_scene7,
+5,5,5,put_groceries_in_fridge14_scene7,8,66.654,69.966,open,fridge168_scene7,
+5,5,5,put_groceries_in_fridge14_scene7,9,69.966,69.966,turnTo,MainObjectXXX9,
+5,5,5,put_groceries_in_fridge14_scene7,10,69.966,73.002,putIn,carrot376_scene7,fridge168_scene7
+5,5,5,put_groceries_in_fridge14_scene7,11,73.002,76.314,close,MainObjectXXX11,

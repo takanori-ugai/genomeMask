@@ -1,0 +1,8 @@
+5,5,5,clean_desk4_scene1,0,0.0,4.829999999999999,ActionXXX0,MainObjectXXX0,
+5,5,5,clean_desk4_scene1,1,4.829999999999999,15.386999999999997,walk,MainObjectXXX1,
+5,5,5,clean_desk4_scene1,2,15.386999999999997,21.941999999999997,walk,towel55_scene1,
+5,5,5,clean_desk4_scene1,3,21.941999999999997,25.046999999999997,grab,MainObjectXXX3,
+5,5,5,clean_desk4_scene1,4,25.046999999999997,35.535,ActionXXX4,bedroom75_scene1,
+5,5,5,clean_desk4_scene1,5,35.535,41.538,walk,desk111_scene1,
+5,5,5,clean_desk4_scene1,6,41.538,41.538,turnTo,desk111_scene1,
+5,5,5,clean_desk4_scene1,7,41.538,60.09899999999999,wipe,MainObjectXXX7,TargetObjectXXX7

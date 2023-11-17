@@ -1,0 +1,8 @@
+2,2,0,clean_fridge1_scene1,0,0.0,4.209,walk,fridge308_scene1,
+2,2,0,clean_fridge1_scene1,1,4.209,8.349,walk,washingsponge268_scene1,
+2,2,0,clean_fridge1_scene1,2,8.349,11.454,grab,washingsponge268_scene1,
+2,2,0,clean_fridge1_scene1,3,11.454,16.767,walk,fridge308_scene1,
+2,2,0,clean_fridge1_scene1,4,16.767,20.079,ActionXXX4,fridge308_scene1,
+2,2,0,clean_fridge1_scene1,5,20.079,38.295,wipe,washingsponge268_scene1,fridge308_scene1
+2,2,0,clean_fridge1_scene1,6,38.295,41.607,close,fridge308_scene1,
+2,2,0,clean_fridge1_scene1,7,41.607,61.203,wipe,washingsponge268_scene1,fridge308_scene1

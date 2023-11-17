@@ -1,0 +1,12 @@
+5,5,0,put_away_groceries_from_fridge3_scene7,0,0.0,8.418,ActionXXX0,fridge168_scene7,
+5,5,0,put_away_groceries_from_fridge3_scene7,1,8.418,11.799,open,fridge168_scene7,
+5,5,0,put_away_groceries_from_fridge3_scene7,2,11.799,14.904,ActionXXX2,carrot376_scene7,
+5,5,0,put_away_groceries_from_fridge3_scene7,3,14.904,22.976999999999997,grab,carrot376_scene7,
+5,5,0,put_away_groceries_from_fridge3_scene7,4,22.976999999999997,26.357999999999997,ActionXXX4,kitchentable133_scene7,
+5,5,0,put_away_groceries_from_fridge3_scene7,5,26.357999999999997,29.394,put,carrot376_scene7,kitchentable133_scene7
+5,5,0,put_away_groceries_from_fridge3_scene7,6,29.394,37.053,walk,fridge168_scene7,
+5,5,0,put_away_groceries_from_fridge3_scene7,7,37.053,40.157999999999994,ActionXXX7,potato377_scene7,
+5,5,0,put_away_groceries_from_fridge3_scene7,8,40.157999999999994,43.46999999999999,grab,potato377_scene7,
+5,5,0,put_away_groceries_from_fridge3_scene7,9,43.46999999999999,51.68099999999999,close,fridge168_scene7,
+5,5,0,put_away_groceries_from_fridge3_scene7,10,51.68099999999999,54.99299999999999,walk,kitchentable133_scene7,
+5,5,0,put_away_groceries_from_fridge3_scene7,11,54.99299999999999,58.02899999999999,ActionXXX11,potato377_scene7,kitchentable133_scene7

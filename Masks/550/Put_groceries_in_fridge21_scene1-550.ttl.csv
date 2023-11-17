@@ -1,0 +1,12 @@
+5,5,0,put_groceries_in_fridge21_scene1,0,0.0,5.5889999999999995,ActionXXX0,plate275_scene1,
+5,5,0,put_groceries_in_fridge21_scene1,1,5.5889999999999995,8.693999999999999,grab,plate275_scene1,
+5,5,0,put_groceries_in_fridge21_scene1,2,8.693999999999999,14.075999999999999,ActionXXX2,fridge308_scene1,
+5,5,0,put_groceries_in_fridge21_scene1,3,14.075999999999999,17.387999999999998,ActionXXX3,fridge308_scene1,
+5,5,0,put_groceries_in_fridge21_scene1,4,17.387999999999998,17.387999999999998,ActionXXX4,fridge308_scene1,
+5,5,0,put_groceries_in_fridge21_scene1,5,17.387999999999998,20.424,putIn,plate275_scene1,fridge308_scene1
+5,5,0,put_groceries_in_fridge21_scene1,6,20.424,26.427,ActionXXX6,cupcake319_scene1,
+5,5,0,put_groceries_in_fridge21_scene1,7,26.427,29.532,grab,cupcake319_scene1,
+5,5,0,put_groceries_in_fridge21_scene1,8,29.532,35.121,walk,fridge308_scene1,
+5,5,0,put_groceries_in_fridge21_scene1,9,35.121,35.121,turnTo,fridge308_scene1,
+5,5,0,put_groceries_in_fridge21_scene1,10,35.121,38.157000000000004,putIn,cupcake319_scene1,fridge308_scene1
+5,5,0,put_groceries_in_fridge21_scene1,11,38.157000000000004,41.469,close,fridge308_scene1,

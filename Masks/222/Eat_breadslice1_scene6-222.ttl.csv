@@ -1,0 +1,5 @@
+2,2,2,eat_breadslice1_scene6,0,0.0,7.106999999999999,ActionXXX0,MainObjectXXX0,
+2,2,2,eat_breadslice1_scene6,1,7.106999999999999,18.284999999999997,walk,MainObjectXXX1,
+2,2,2,eat_breadslice1_scene6,2,18.284999999999997,21.872999999999998,walk,breadslice238_scene6,
+2,2,2,eat_breadslice1_scene6,3,21.872999999999998,24.977999999999998,grab,MainObjectXXX3,
+2,2,2,eat_breadslice1_scene6,4,24.977999999999998,36.501,eat,MainObjectXXX4,

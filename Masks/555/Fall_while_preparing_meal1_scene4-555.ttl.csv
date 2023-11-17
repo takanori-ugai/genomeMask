@@ -1,0 +1,7 @@
+5,5,5,fall_while_preparing_meal1_scene4,0,0.0,7.59,ActionXXX0,fryingpan126_scene4,
+5,5,5,fall_while_preparing_meal1_scene4,1,7.59,10.695,grab,fryingpan126_scene4,
+5,5,5,fall_while_preparing_meal1_scene4,2,10.695,14.835,ActionXXX2,chicken69_scene4,
+5,5,5,fall_while_preparing_meal1_scene4,3,14.835,17.94,grab,chicken69_scene4,
+5,5,5,fall_while_preparing_meal1_scene4,4,17.94,19.32,walk,sink94_scene4,
+5,5,5,fall_while_preparing_meal1_scene4,5,19.32,24.219,ActionXXX5,door40_scene4,
+5,5,5,fall_while_preparing_meal1_scene4,6,24.219,31.464000000000002,fall,,

@@ -1,0 +1,12 @@
+5,5,0,clean_sink4_scene3,0,0.0,9.107999999999999,ActionXXX0,sink158_scene3,
+5,5,0,clean_sink4_scene3,1,9.107999999999999,12.488999999999999,walk,washingsponge123_scene3,
+5,5,0,clean_sink4_scene3,2,12.488999999999999,15.593999999999998,ActionXXX2,washingsponge123_scene3,
+5,5,0,clean_sink4_scene3,3,15.593999999999998,17.871,ActionXXX3,sink158_scene3,
+5,5,0,clean_sink4_scene3,4,17.871,17.871,ActionXXX4,sink158_scene3,
+5,5,0,clean_sink4_scene3,5,17.871,36.018,ActionXXX5,washingsponge123_scene3,sink158_scene3
+5,5,0,clean_sink4_scene3,6,36.018,37.398,ActionXXX6,faucet159_scene3,
+5,5,0,clean_sink4_scene3,7,37.398,40.779,switchOn,faucet159_scene3,
+5,5,0,clean_sink4_scene3,8,40.779,44.160000000000004,ActionXXX8,faucet159_scene3,
+5,5,0,clean_sink4_scene3,9,44.160000000000004,46.29900000000001,ActionXXX9,sink158_scene3,
+5,5,0,clean_sink4_scene3,10,46.29900000000001,46.29900000000001,ActionXXX10,sink158_scene3,
+5,5,0,clean_sink4_scene3,11,46.29900000000001,64.86,ActionXXX11,washingsponge123_scene3,sink158_scene3

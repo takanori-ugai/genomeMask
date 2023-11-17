@@ -1,0 +1,7 @@
+2,2,0,pick_up_dirty_fork1_scene3,0,0.0,4.209,walk,cutleryfork66_scene3,
+2,2,0,pick_up_dirty_fork1_scene3,1,4.209,7.313999999999999,grab,cutleryfork66_scene3,
+2,2,0,pick_up_dirty_fork1_scene3,2,7.313999999999999,13.040999999999999,walk,cutleryfork69_scene3,
+2,2,0,pick_up_dirty_fork1_scene3,3,13.040999999999999,16.145999999999997,ActionXXX3,cutleryfork69_scene3,
+2,2,0,pick_up_dirty_fork1_scene3,4,16.145999999999997,25.184999999999995,walk,sink158_scene3,
+2,2,0,pick_up_dirty_fork1_scene3,5,25.184999999999995,28.220999999999997,put,cutleryfork66_scene3,sink158_scene3
+2,2,0,pick_up_dirty_fork1_scene3,6,28.220999999999997,31.256999999999998,put,cutleryfork69_scene3,sink158_scene3

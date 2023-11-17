@@ -1,0 +1,4 @@
+5,5,5,admire_art1_scene6,0,0.0,8.969999999999999,walk,MainObjectXXX0,
+5,5,5,admire_art1_scene6,1,8.969999999999999,13.869,ActionXXX1,wallpictureframe320_scene6,
+5,5,5,admire_art1_scene6,2,13.869,13.869,turnTo,MainObjectXXX2,
+5,5,5,admire_art1_scene6,3,13.869,13.869,lookAt,MainObjectXXX3,

@@ -1,0 +1,12 @@
+5,5,0,clean_television4_scene1,0,0.0,6.141,ActionXXX0,tv433_scene1,
+5,5,0,clean_television4_scene1,1,6.141,17.802,walk,kitchen209_scene1,
+5,5,0,clean_television4_scene1,2,17.802,26.979,walk,bedroom75_scene1,
+5,5,0,clean_television4_scene1,3,26.979,36.363,ActionXXX3,bathroom11_scene1,
+5,5,0,clean_television4_scene1,4,36.363,42.089999999999996,walk,towel55_scene1,
+5,5,0,clean_television4_scene1,5,42.089999999999996,45.19499999999999,grab,towel55_scene1,
+5,5,0,clean_television4_scene1,6,45.19499999999999,55.337999999999994,walk,bedroom75_scene1,
+5,5,0,clean_television4_scene1,7,55.337999999999994,64.16999999999999,walk,kitchen209_scene1,
+5,5,0,clean_television4_scene1,8,64.16999999999999,76.45199999999998,walk,livingroom342_scene1,
+5,5,0,clean_television4_scene1,9,76.45199999999998,78.93599999999998,walk,tv433_scene1,
+5,5,0,clean_television4_scene1,10,78.93599999999998,78.93599999999998,ActionXXX10,tv433_scene1,
+5,5,0,clean_television4_scene1,11,78.93599999999998,98.11799999999998,wipe,towel55_scene1,tv433_scene1

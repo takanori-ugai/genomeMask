@@ -1,0 +1,6 @@
+5,5,5,clean_stove1_scene7,0,0.0,8.556000000000001,walk,stove160_scene7,
+5,5,5,clean_stove1_scene7,1,8.556000000000001,15.456,ActionXXX1,MainObjectXXX1,
+5,5,5,clean_stove1_scene7,2,15.456,18.561,grab,MainObjectXXX2,
+5,5,5,clean_stove1_scene7,3,18.561,24.633,walk,MainObjectXXX3,
+5,5,5,clean_stove1_scene7,4,24.633,24.633,turnTo,MainObjectXXX4,
+5,5,5,clean_stove1_scene7,5,24.633,44.16,wipe,MainObjectXXX5,stove160_scene7

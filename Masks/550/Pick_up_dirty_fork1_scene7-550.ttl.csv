@@ -1,0 +1,4 @@
+5,5,0,pick_up_dirty_fork1_scene7,0,0.0,8.28,ActionXXX0,cutleryfork123_scene7,
+5,5,0,pick_up_dirty_fork1_scene7,1,8.28,11.384999999999998,grab,cutleryfork123_scene7,
+5,5,0,pick_up_dirty_fork1_scene7,2,11.384999999999998,14.144999999999998,walk,sink152_scene7,
+5,5,0,pick_up_dirty_fork1_scene7,3,14.144999999999998,17.180999999999997,put,cutleryfork123_scene7,sink152_scene7

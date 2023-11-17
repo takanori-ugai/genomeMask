@@ -1,0 +1,8 @@
+5,5,5,fall_while_preparing_meal2_scene1,0,0.0,4.3469999999999995,walk,MainObjectXXX0,
+5,5,5,fall_while_preparing_meal2_scene1,1,4.3469999999999995,7.451999999999999,grab,MainObjectXXX1,
+5,5,5,fall_while_preparing_meal2_scene1,2,7.451999999999999,14.351999999999999,ActionXXX2,cupcake319_scene1,
+5,5,5,fall_while_preparing_meal2_scene1,3,14.351999999999999,17.456999999999997,ActionXXX3,MainObjectXXX3,
+5,5,5,fall_while_preparing_meal2_scene1,4,17.456999999999997,26.978999999999996,ActionXXX4,MainObjectXXX4,
+5,5,5,fall_while_preparing_meal2_scene1,5,26.978999999999996,31.532999999999994,walk,coffeetable378_scene1,
+5,5,5,fall_while_preparing_meal2_scene1,6,31.532999999999994,35.39699999999999,ActionXXX6,MainObjectXXX6,
+5,5,5,fall_while_preparing_meal2_scene1,7,35.39699999999999,42.57299999999999,fall,,

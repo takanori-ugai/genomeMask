@@ -1,0 +1,6 @@
+10,10,0,do_work_on_computer1_scene6,0,0.0,4.691999999999999,ActionXXX0,computer333_scene6,
+10,10,0,do_work_on_computer1_scene6,1,4.691999999999999,8.072999999999999,ActionXXX1,computer333_scene6,
+10,10,0,do_work_on_computer1_scene6,2,8.072999999999999,20.354999999999997,ActionXXX2,chair297_scene6,
+10,10,0,do_work_on_computer1_scene6,3,20.354999999999997,39.467999999999996,ActionXXX3,keyboard334_scene6,
+10,10,0,do_work_on_computer1_scene6,4,39.467999999999996,44.919,ActionXXX4,,
+10,10,0,do_work_on_computer1_scene6,5,44.919,44.919,ActionXXX5,kitchen161_scene6,

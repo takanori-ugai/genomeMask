@@ -1,0 +1,5 @@
+2,2,2,turn_off_light7_scene5,0,0.0,10.556999999999999,walk,livingroom11_scene5,
+2,2,2,turn_off_light7_scene5,1,10.556999999999999,16.836,ActionXXX1,kitchen112_scene5,
+2,2,2,turn_off_light7_scene5,2,16.836,24.15,walk,bedroom231_scene5,
+2,2,2,turn_off_light7_scene5,3,24.15,29.394,walk,lightswitch268_scene5,
+2,2,2,turn_off_light7_scene5,4,29.394,32.775,switchOff,lightswitch268_scene5,

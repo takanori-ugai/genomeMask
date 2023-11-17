@@ -1,0 +1,12 @@
+10,10,0,clean_sink4_scene6,0,0.0,4.002,ActionXXX0,sink197_scene6,
+10,10,0,clean_sink4_scene6,1,4.002,6.071999999999999,ActionXXX1,washingsponge212_scene6,
+10,10,0,clean_sink4_scene6,2,6.071999999999999,9.177,ActionXXX2,washingsponge212_scene6,
+10,10,0,clean_sink4_scene6,3,9.177,12.902999999999999,ActionXXX3,sink197_scene6,
+10,10,0,clean_sink4_scene6,4,12.902999999999999,12.902999999999999,ActionXXX4,sink197_scene6,
+10,10,0,clean_sink4_scene6,5,12.902999999999999,31.878,ActionXXX5,washingsponge212_scene6,sink197_scene6
+10,10,0,clean_sink4_scene6,6,31.878,33.465,ActionXXX6,faucet198_scene6,
+10,10,0,clean_sink4_scene6,7,33.465,36.846000000000004,ActionXXX7,faucet198_scene6,
+10,10,0,clean_sink4_scene6,8,36.846000000000004,40.227000000000004,ActionXXX8,faucet198_scene6,
+10,10,0,clean_sink4_scene6,9,40.227000000000004,41.745000000000005,ActionXXX9,sink197_scene6,
+10,10,0,clean_sink4_scene6,10,41.745000000000005,41.745000000000005,ActionXXX10,sink197_scene6,
+10,10,0,clean_sink4_scene6,11,41.745000000000005,60.720000000000006,ActionXXX11,washingsponge212_scene6,sink197_scene6

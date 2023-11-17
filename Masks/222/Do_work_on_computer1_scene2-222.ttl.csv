@@ -1,0 +1,6 @@
+2,2,2,do_work_on_computer1_scene2,0,0.0,6.348,walk,MainObjectXXX0,
+2,2,2,do_work_on_computer1_scene2,1,6.348,12.971999999999998,switchOn,computer242_scene2,
+2,2,2,do_work_on_computer1_scene2,2,12.971999999999998,22.217999999999996,sit,chair228_scene2,
+2,2,2,do_work_on_computer1_scene2,3,22.217999999999996,41.882999999999996,type,keyboard244_scene2,
+2,2,2,do_work_on_computer1_scene2,4,41.882999999999996,51.474,stand,,
+2,2,2,do_work_on_computer1_scene2,5,51.474,51.474,walk,kitchen51_scene2,

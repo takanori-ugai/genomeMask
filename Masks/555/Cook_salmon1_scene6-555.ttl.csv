@@ -1,0 +1,12 @@
+5,5,5,cook_salmon1_scene6,0,0.0,10.074,ActionXXX0,bedroom70_scene6,
+5,5,5,cook_salmon1_scene6,1,10.074,20.7,walk,kitchen161_scene6,
+5,5,5,cook_salmon1_scene6,2,20.7,24.426,walk,MainObjectXXX2,
+5,5,5,cook_salmon1_scene6,3,24.426,27.531,grab,salmon258_scene6,
+5,5,5,cook_salmon1_scene6,4,27.531,31.256999999999998,walk,MainObjectXXX4,
+5,5,5,cook_salmon1_scene6,5,31.256999999999998,36.638999999999996,switchOn,faucet198_scene6,
+5,5,5,cook_salmon1_scene6,6,36.638999999999996,50.99099999999999,ActionXXX6,salmon258_scene6,
+5,5,5,cook_salmon1_scene6,7,50.99099999999999,54.440999999999995,switchOff,faucet198_scene6,
+5,5,5,cook_salmon1_scene6,8,54.440999999999995,58.718999999999994,walk,MainObjectXXX8,
+5,5,5,cook_salmon1_scene6,9,58.718999999999994,61.754999999999995,ActionXXX9,MainObjectXXX9,TargetObjectXXX9
+5,5,5,cook_salmon1_scene6,10,61.754999999999995,65.067,switchOn,MainObjectXXX10,
+5,5,5,cook_salmon1_scene6,11,65.067,68.37899999999999,ActionXXX11,MainObjectXXX11,

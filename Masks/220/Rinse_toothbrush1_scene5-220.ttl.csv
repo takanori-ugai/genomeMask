@@ -1,0 +1,8 @@
+2,2,0,rinse_toothbrush1_scene5,0,0.0,9.659999999999998,walk,toothbrush371_scene5,
+2,2,0,rinse_toothbrush1_scene5,1,9.659999999999998,12.764999999999997,grab,toothbrush371_scene5,
+2,2,0,rinse_toothbrush1_scene5,2,12.764999999999997,14.558999999999997,ActionXXX2,faucet319_scene5,
+2,2,0,rinse_toothbrush1_scene5,3,14.558999999999997,17.939999999999998,switchOn,faucet319_scene5,
+2,2,0,rinse_toothbrush1_scene5,4,17.939999999999998,32.843999999999994,soak,toothbrush371_scene5,
+2,2,0,rinse_toothbrush1_scene5,5,32.843999999999994,49.26599999999999,rinse,toothbrush371_scene5,
+2,2,0,rinse_toothbrush1_scene5,6,49.26599999999999,52.715999999999994,ActionXXX6,faucet319_scene5,
+2,2,0,rinse_toothbrush1_scene5,7,52.715999999999994,60.029999999999994,ActionXXX7,toothbrush371_scene5,

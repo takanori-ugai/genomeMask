@@ -1,0 +1,10 @@
+5,5,0,put_away_groceries_from_fridge1_scene2,0,0.0,8.693999999999999,walk,fridge155_scene2,
+5,5,0,put_away_groceries_from_fridge1_scene2,1,8.693999999999999,12.075,ActionXXX1,fridge155_scene2,
+5,5,0,put_away_groceries_from_fridge1_scene2,2,12.075,15.18,ActionXXX2,alcohol348_scene2,
+5,5,0,put_away_groceries_from_fridge1_scene2,3,15.18,21.320999999999998,ActionXXX3,alcohol348_scene2,
+5,5,0,put_away_groceries_from_fridge1_scene2,4,21.320999999999998,24.357,ActionXXX4,kitchentable129_scene2,
+5,5,0,put_away_groceries_from_fridge1_scene2,5,24.357,30.153,ActionXXX5,alcohol348_scene2,kitchentable129_scene2
+5,5,0,put_away_groceries_from_fridge1_scene2,6,30.153,33.257999999999996,walk,fridge155_scene2,
+5,5,0,put_away_groceries_from_fridge1_scene2,7,33.257999999999996,36.56999999999999,ActionXXX7,wine349_scene2,
+5,5,0,put_away_groceries_from_fridge1_scene2,8,36.56999999999999,42.50399999999999,grab,wine349_scene2,
+5,5,0,put_away_groceries_from_fridge1_scene2,9,42.50399999999999,45.53999999999999,ActionXXX9,fridge155_scene2,

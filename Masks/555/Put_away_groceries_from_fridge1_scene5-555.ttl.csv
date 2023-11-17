@@ -1,0 +1,10 @@
+5,5,5,put_away_groceries_from_fridge1_scene5,0,0.0,2.001,ActionXXX0,fridge158_scene5,
+5,5,5,put_away_groceries_from_fridge1_scene5,1,2.001,5.382,open,MainObjectXXX1,
+5,5,5,put_away_groceries_from_fridge1_scene5,2,5.382,8.486999999999998,find,alcohol387_scene5,
+5,5,5,put_away_groceries_from_fridge1_scene5,3,8.486999999999998,11.867999999999999,grab,alcohol387_scene5,
+5,5,5,put_away_groceries_from_fridge1_scene5,4,11.867999999999999,14.903999999999998,walk,kitchentable139_scene5,
+5,5,5,put_away_groceries_from_fridge1_scene5,5,14.903999999999998,18.147,put,alcohol387_scene5,kitchentable139_scene5
+5,5,5,put_away_groceries_from_fridge1_scene5,6,18.147,21.252,ActionXXX6,fridge158_scene5,
+5,5,5,put_away_groceries_from_fridge1_scene5,7,21.252,24.564,ActionXXX7,wine388_scene5,
+5,5,5,put_away_groceries_from_fridge1_scene5,8,24.564,28.221,ActionXXX8,wine388_scene5,
+5,5,5,put_away_groceries_from_fridge1_scene5,9,28.221,31.257,ActionXXX9,MainObjectXXX9,

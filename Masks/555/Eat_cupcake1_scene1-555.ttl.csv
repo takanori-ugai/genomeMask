@@ -1,0 +1,8 @@
+5,5,5,eat_cupcake1_scene1,0,0.0,10.074,walk,bedroom75_scene1,
+5,5,5,eat_cupcake1_scene1,1,10.074,18.354,walk,MainObjectXXX1,
+5,5,5,eat_cupcake1_scene1,2,18.354,22.08,ActionXXX2,cupcake319_scene1,
+5,5,5,eat_cupcake1_scene1,3,22.08,25.185,grab,MainObjectXXX3,
+5,5,5,eat_cupcake1_scene1,4,25.185,34.361999999999995,ActionXXX4,MainObjectXXX4,
+5,5,5,eat_cupcake1_scene1,5,34.361999999999995,39.398999999999994,ActionXXX5,sofa375_scene1,
+5,5,5,eat_cupcake1_scene1,6,39.398999999999994,49.88699999999999,ActionXXX6,MainObjectXXX6,
+5,5,5,eat_cupcake1_scene1,7,49.88699999999999,60.995999999999995,eat,cupcake319_scene1,

@@ -1,0 +1,7 @@
+10,10,0,put_groceries_in_fridge18_scene3,0,0.0,8.211,ActionXXX0,chocolatesyrup176_scene3,
+10,10,0,put_groceries_in_fridge18_scene3,1,8.211,11.315999999999999,ActionXXX1,chocolatesyrup176_scene3,
+10,10,0,put_groceries_in_fridge18_scene3,2,11.315999999999999,15.248999999999999,ActionXXX2,fridge165_scene3,
+10,10,0,put_groceries_in_fridge18_scene3,3,15.248999999999999,18.561,ActionXXX3,fridge165_scene3,
+10,10,0,put_groceries_in_fridge18_scene3,4,18.561,18.561,ActionXXX4,fridge165_scene3,
+10,10,0,put_groceries_in_fridge18_scene3,5,18.561,21.597,ActionXXX5,chocolatesyrup176_scene3,fridge165_scene3
+10,10,0,put_groceries_in_fridge18_scene3,6,21.597,24.909,ActionXXX6,fridge165_scene3,

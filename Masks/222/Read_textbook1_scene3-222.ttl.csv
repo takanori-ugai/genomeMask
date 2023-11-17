@@ -1,0 +1,11 @@
+2,2,2,read_textbook1_scene3,0,0.0,3.6569999999999996,walk,book392_scene3,
+2,2,2,read_textbook1_scene3,1,3.6569999999999996,6.761999999999999,grab,book392_scene3,
+2,2,2,read_textbook1_scene3,2,6.761999999999999,15.386999999999999,walk,MainObjectXXX2,
+2,2,2,read_textbook1_scene3,3,15.386999999999999,29.945999999999998,read,book392_scene3,
+2,2,2,read_textbook1_scene3,4,29.945999999999998,29.945999999999998,ActionXXX4,desk406_scene3,
+2,2,2,read_textbook1_scene3,5,29.945999999999998,32.982,put,book392_scene3,desk406_scene3
+2,2,2,read_textbook1_scene3,6,32.982,38.778,walk,bathroom297_scene3,
+2,2,2,read_textbook1_scene3,7,38.778,43.125,walk,MainObjectXXX7,
+2,2,2,read_textbook1_scene3,7,43.125,47.472,walk,MainObjectXXX7,
+2,2,2,read_textbook1_scene3,8,47.472,53.406,sit,toilet333_scene3,
+2,2,2,read_textbook1_scene3,8,53.406,59.339999999999996,sit,toilet333_scene3,

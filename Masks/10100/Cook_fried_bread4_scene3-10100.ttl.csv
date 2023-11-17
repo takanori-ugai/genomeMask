@@ -1,0 +1,11 @@
+10,10,0,cook_fried_bread4_scene3,0,0.0,10.488,ActionXXX0,kitchen11_scene3,
+10,10,0,cook_fried_bread4_scene3,1,10.488,16.767,ActionXXX1,breadslice170_scene3,
+10,10,0,cook_fried_bread4_scene3,2,16.767,19.872,ActionXXX2,breadslice170_scene3,
+10,10,0,cook_fried_bread4_scene3,3,19.872,25.461,ActionXXX3,fryingpan62_scene3,
+10,10,0,cook_fried_bread4_scene3,4,25.461,28.497,ActionXXX4,breadslice170_scene3,fryingpan62_scene3
+10,10,0,cook_fried_bread4_scene3,5,28.497,31.808999999999997,ActionXXX5,stove166_scene3,
+10,10,0,cook_fried_bread4_scene3,6,31.808999999999997,37.26,ActionXXX6,milk183_scene3,
+10,10,0,cook_fried_bread4_scene3,7,37.26,40.364999999999995,ActionXXX7,milk183_scene3,
+10,10,0,cook_fried_bread4_scene3,8,40.364999999999995,46.23,ActionXXX8,fryingpan62_scene3,
+10,10,0,cook_fried_bread4_scene3,9,46.23,60.92699999999999,ActionXXX9,milk183_scene3,fryingpan62_scene3
+10,10,0,cook_fried_bread4_scene3,10,60.92699999999999,64.23899999999999,ActionXXX10,stove166_scene3,

@@ -1,0 +1,7 @@
+5,5,5,put_groceries_in_fridge15_scene5,0,0.0,8.004,walk,MainObjectXXX0,
+5,5,5,put_groceries_in_fridge15_scene5,1,8.004,11.108999999999998,grab,cereal225_scene5,
+5,5,5,put_groceries_in_fridge15_scene5,2,11.108999999999998,17.180999999999997,ActionXXX2,fridge158_scene5,
+5,5,5,put_groceries_in_fridge15_scene5,3,17.180999999999997,20.492999999999995,ActionXXX3,MainObjectXXX3,
+5,5,5,put_groceries_in_fridge15_scene5,4,20.492999999999995,20.492999999999995,turnTo,fridge158_scene5,
+5,5,5,put_groceries_in_fridge15_scene5,5,20.492999999999995,23.528999999999996,putIn,cereal225_scene5,TargetObjectXXX5
+5,5,5,put_groceries_in_fridge15_scene5,6,23.528999999999996,26.840999999999994,close,MainObjectXXX6,

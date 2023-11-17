@@ -1,0 +1,6 @@
+2,2,2,fold_clothespile1_scene6,0,0.0,3.8639999999999994,ActionXXX0,clothespile145_scene6,
+2,2,2,fold_clothespile1_scene6,1,3.8639999999999994,6.968999999999999,grab,clothespile145_scene6,
+2,2,2,fold_clothespile1_scene6,2,6.968999999999999,14.972999999999999,walk,bed104_scene6,
+2,2,2,fold_clothespile1_scene6,3,14.972999999999999,29.945999999999998,ActionXXX3,MainObjectXXX3,
+2,2,2,fold_clothespile1_scene6,4,29.945999999999998,40.778999999999996,ActionXXX4,,
+2,2,2,fold_clothespile1_scene6,5,40.778999999999996,43.815,put,clothespile145_scene6,bed104_scene6

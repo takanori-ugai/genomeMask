@@ -1,0 +1,4 @@
+2,2,0,pick_up_dirty_fork1_scene2,0,0.0,9.107999999999999,walk,cutleryfork84_scene2,
+2,2,0,pick_up_dirty_fork1_scene2,1,9.107999999999999,12.212999999999997,grab,cutleryfork84_scene2,
+2,2,0,pick_up_dirty_fork1_scene2,2,12.212999999999997,15.593999999999998,walk,sink149_scene2,
+2,2,0,pick_up_dirty_fork1_scene2,3,15.593999999999998,18.63,put,cutleryfork84_scene2,sink149_scene2

@@ -1,0 +1,10 @@
+5,5,5,watch_television3_scene5,0,0.0,4.623,walk,MainObjectXXX0,
+5,5,5,watch_television3_scene5,1,4.623,9.66,ActionXXX1,tv108_scene5,
+5,5,5,watch_television3_scene5,2,9.66,13.455,switchOn,tv108_scene5,
+5,5,5,watch_television3_scene5,3,13.455,16.076999999999998,walk,remotecontrol110_scene5,
+5,5,5,watch_television3_scene5,4,16.076999999999998,19.182,ActionXXX4,remotecontrol110_scene5,
+5,5,5,watch_television3_scene5,5,19.182,22.77,walk,tv108_scene5,
+5,5,5,watch_television3_scene5,6,22.77,29.532,switchOff,tv108_scene5,
+5,5,5,watch_television3_scene5,7,29.532,35.397,walk,tvstand28_scene5,
+5,5,5,watch_television3_scene5,8,35.397,38.433,ActionXXX8,MainObjectXXX8,tvstand28_scene5
+5,5,5,watch_television3_scene5,9,38.433,46.644,walk,MainObjectXXX9,

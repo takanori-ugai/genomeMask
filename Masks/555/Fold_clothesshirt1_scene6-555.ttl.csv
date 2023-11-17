@@ -1,0 +1,6 @@
+5,5,5,fold_clothesshirt1_scene6,0,0.0,4.14,walk,closet105_scene6,
+5,5,5,fold_clothesshirt1_scene6,1,4.14,7.244999999999999,ActionXXX1,MainObjectXXX1,
+5,5,5,fold_clothesshirt1_scene6,2,7.244999999999999,14.904,ActionXXX2,bed104_scene6,
+5,5,5,fold_clothesshirt1_scene6,3,14.904,29.601,ActionXXX3,clothesshirt133_scene6,
+5,5,5,fold_clothesshirt1_scene6,4,29.601,40.227,fold,,
+5,5,5,fold_clothesshirt1_scene6,5,40.227,43.263,put,MainObjectXXX5,TargetObjectXXX5

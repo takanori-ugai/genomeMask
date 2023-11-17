@@ -1,0 +1,6 @@
+5,5,0,fold_clothesshirt1_scene6,0,0.0,4.14,ActionXXX0,closet105_scene6,
+5,5,0,fold_clothesshirt1_scene6,1,4.14,7.244999999999999,grab,clothesshirt133_scene6,
+5,5,0,fold_clothesshirt1_scene6,2,7.244999999999999,14.904,ActionXXX2,bed104_scene6,
+5,5,0,fold_clothesshirt1_scene6,3,14.904,29.601,shake,clothesshirt133_scene6,
+5,5,0,fold_clothesshirt1_scene6,4,29.601,40.227,ActionXXX4,,
+5,5,0,fold_clothesshirt1_scene6,5,40.227,43.263,ActionXXX5,clothesshirt133_scene6,bed104_scene6

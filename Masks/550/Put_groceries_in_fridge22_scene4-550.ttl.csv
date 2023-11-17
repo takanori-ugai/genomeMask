@@ -1,0 +1,17 @@
+5,5,0,put_groceries_in_fridge22_scene4,0,0.0,7.313999999999999,ActionXXX0,juice378_scene4,
+5,5,0,put_groceries_in_fridge22_scene4,1,7.313999999999999,10.418999999999999,ActionXXX1,juice378_scene4,
+5,5,0,put_groceries_in_fridge22_scene4,2,10.418999999999999,16.836,put,juice378_scene4,
+5,5,0,put_groceries_in_fridge22_scene4,3,16.836,25.943999999999996,ActionXXX3,bathroom177_scene4,
+5,5,0,put_groceries_in_fridge22_scene4,4,25.943999999999996,29.807999999999996,walk,towel211_scene4,
+5,5,0,put_groceries_in_fridge22_scene4,5,29.807999999999996,32.913,ActionXXX5,towel211_scene4,
+5,5,0,put_groceries_in_fridge22_scene4,6,32.913,41.193,walk,kitchen11_scene4,
+5,5,0,put_groceries_in_fridge22_scene4,7,41.193,46.299,walk,juice378_scene4,
+5,5,0,put_groceries_in_fridge22_scene4,8,46.299,49.403999999999996,ActionXXX8,juice378_scene4,
+5,5,0,put_groceries_in_fridge22_scene4,9,49.403999999999996,70.65599999999999,ActionXXX9,juice378_scene4,towel211_scene4
+5,5,0,put_groceries_in_fridge22_scene4,10,70.65599999999999,75.83099999999999,ActionXXX10,kitchentable76_scene4,
+5,5,0,put_groceries_in_fridge22_scene4,11,75.83099999999999,78.86699999999999,put,towel211_scene4,kitchentable76_scene4
+5,5,0,put_groceries_in_fridge22_scene4,12,78.86699999999999,87.49199999999999,ActionXXX12,fridge107_scene4,
+5,5,0,put_groceries_in_fridge22_scene4,13,87.49199999999999,90.80399999999999,open,fridge107_scene4,
+5,5,0,put_groceries_in_fridge22_scene4,14,90.80399999999999,90.80399999999999,turnTo,fridge107_scene4,
+5,5,0,put_groceries_in_fridge22_scene4,15,90.80399999999999,93.83999999999999,putIn,juice378_scene4,fridge107_scene4
+5,5,0,put_groceries_in_fridge22_scene4,16,93.83999999999999,97.15199999999999,ActionXXX16,fridge107_scene4,
