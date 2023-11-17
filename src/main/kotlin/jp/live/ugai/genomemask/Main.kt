@@ -1,12 +1,16 @@
 package jp.live.ugai.genomemask
 
 import org.apache.jena.query.QueryExecutionFactory
-import org.apache.jena.query.ResultSet
 import org.apache.jena.rdf.model.Model
 import org.apache.jena.rdf.model.ModelFactory
 import org.apache.jena.riot.RDFDataMgr
 import java.io.InputStream
 
+/**
+ * The main entry point of the application.
+ *
+ * @param args Command line arguments. If provided, they are treated as file names.
+ */
 fun main(args: Array<String>) {
     val make = Main()
     val fileNames = if (args.size > 0) {
@@ -20,42 +24,34 @@ fun main(args: Array<String>) {
     }
     for (fileName in fileNames) {
         val rates = fileName.replace(Regex(".*-"), "")
-//        println(rates)
         when (rates) {
-            "222.ttl" -> {
-                make.makeData(fileName, 2, 2, 2)
-            }
-
-            "220.ttl" -> {
-                make.makeData(fileName, 2, 2, 0)
-            }
-
-            "555.ttl" -> {
-                make.makeData(fileName, 5, 5, 5)
-            }
-
-            "550.ttl" -> {
-                make.makeData(fileName, 5, 5, 0)
-            }
-
-            "101010.ttl" -> {
-                make.makeData(fileName, 10, 10, 10)
-            }
-
-            "10100.ttl" -> {
-                make.makeData(fileName, 10, 10, 0)
-            }
+            "222.ttl" -> make.makeData(fileName, 2, 2, 2)
+            "220.ttl" -> make.makeData(fileName, 2, 2, 0)
+            "555.ttl" -> make.makeData(fileName, 5, 5, 5)
+            "550.ttl" -> make.makeData(fileName, 5, 5, 0)
+            "101010.ttl" -> make.makeData(fileName, 10, 10, 10)
+            "10100.ttl" -> make.makeData(fileName, 10, 10, 0)
         }
         //       make.makeData(fileName, 2, 0, 0)
     }
 }
 
+/**
+ * Main class responsible for creating data from files.
+ */
 class Main {
 
+    /**
+     * Creates data from a given file.
+     *
+     * @param fileName The name of the file to read data from.
+     * @param placeRate The rate of the place.
+     * @param actionRate The rate of the action.
+     * @param objectRate The rate of the object.
+     */
     fun makeData(fileName: String, placeRate: Int, actionRate: Int, objectRate: Int) {
         val model: Model = ModelFactory.createDefaultModel()
 
-// use the RDFDataMgr to find the input file
         val inputStream: InputStream = RDFDataMgr.open("file:$fileName")
         model.read(inputStream, null, "TURTLE")
         inputStream.close()
@@ -85,15 +81,10 @@ select DISTINCT * where {
 }order by (?number)
     """
 
-        val dQueries: MutableList<String> = mutableListOf()
-        val iQueries: MutableList<String> = mutableListOf()
         var beginTime = 0.0
         var endTime = 0.0
         QueryExecutionFactory.create(queryString, model).use { qexec ->
-            var results: ResultSet? = qexec.execSelect()
-//        results = ResultSetFactory.copyResults(results)
-//        println(results)
-            results!!.forEach {
+            qexec.execSelect()!!.forEach {
                 val event = it["ee"].toString().replace("http://kgrc4si.home.kg/virtualhome2kg/instance/", "")
                 val number = it["number"].asLiteral().int
                 val action =
@@ -113,11 +104,6 @@ select DISTINCT * where {
                 }
                 println()
             }
-
-            // Create an UpdateRequest
-
-            // Create a Dataset and add the Model to it
-//        return results // Passes the result set out of the try-resources
         }
     }
 }
