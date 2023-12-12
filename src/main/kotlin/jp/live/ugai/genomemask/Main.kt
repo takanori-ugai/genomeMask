@@ -13,15 +13,16 @@ import java.io.InputStream
  */
 fun main(args: Array<String>) {
     val make = Main()
-    val fileNames = if (args.size > 0) {
-        args
-    } else {
-        arrayOf(
-            "Data/Admire_art1_scene1-101010.ttl",
-            "Data/Clean_kitchentable1_scene7-222.ttl",
-            "Data/Read_book1_scene6-555.ttl"
-        )
-    }
+    val fileNames =
+        if (args.size > 0) {
+            args
+        } else {
+            arrayOf(
+                "Data/Admire_art1_scene1-101010.ttl",
+                "Data/Clean_kitchentable1_scene7-222.ttl",
+                "Data/Read_book1_scene6-555.ttl",
+            )
+        }
     for (fileName in fileNames) {
         val rates = fileName.replace(Regex(".*-"), "")
         when (rates) {
@@ -40,7 +41,6 @@ fun main(args: Array<String>) {
  * Main class responsible for creating data from files.
  */
 class Main {
-
     /**
      * Creates data from a given file.
      *
@@ -49,7 +49,12 @@ class Main {
      * @param actionRate The rate of the action.
      * @param objectRate The rate of the object.
      */
-    fun makeData(fileName: String, placeRate: Int, actionRate: Int, objectRate: Int) {
+    fun makeData(
+        fileName: String,
+        placeRate: Int,
+        actionRate: Int,
+        objectRate: Int,
+    ) {
         val model: Model = ModelFactory.createDefaultModel()
 
         val inputStream: InputStream = RDFDataMgr.open("file:$fileName")
