@@ -26,7 +26,7 @@ repositories {
 }
 
 dependencies {
-    implementation("org.apache.jena:apache-jena-libs:4.10.0")
+    implementation("org.apache.jena:apache-jena-libs:5.0.0")
     testImplementation(kotlin("test"))
 }
 
