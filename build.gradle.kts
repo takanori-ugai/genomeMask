@@ -1,4 +1,5 @@
 import io.gitlab.arturbosch.detekt.Detekt
+import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 import org.jlleitschuh.gradle.ktlint.reporter.ReporterType
 
 plugins {
@@ -32,11 +33,11 @@ dependencies {
 
 tasks {
     compileKotlin {
-        kotlinOptions.jvmTarget = "11"
+        compilerOptions.jvmTarget = JvmTarget.JVM_11
     }
 
     compileTestKotlin {
-        kotlinOptions.jvmTarget = "11"
+        compilerOptions.jvmTarget = JvmTarget.JVM_11
     }
 
     compileJava {
